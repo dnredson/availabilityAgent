@@ -1,0 +1,657 @@
+[
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5d279e12dbf3aa57a6f31151",
+        "notification": {
+            "attrs": [
+                "AirPressure",
+                "AirPressureUnit",
+                "AirTemperature",
+                "AirTemperatureUnit",
+                "Battery",
+                "BatteryUnit",
+                "HailAcc",
+                "HailAccUnit",
+                "HailDuration",
+                "HailDurationUnit",
+                "HailIntensity",
+                "HailIntensityUnit",
+                "HailPeak",
+                "HailPeakUnit",
+                "HeatingTemp",
+                "HeatingTempUnit",
+                "HeatingVolt",
+                "HeatingVoltUnit",
+                "InternalTemperature",
+                "InternalTemperatureUnit",
+                "LocalTimeStamp",
+                "RainAcc",
+                "RainAccUnit",
+                "RainDuration",
+                "RainDurationUnit",
+                "RainIntensity",
+                "RainIntensityUnit",
+                "RainPeak",
+                "RainPeakUnit",
+                "ReferenceVolt",
+                "ReferenceVoltUnit",
+                "RelativeHumidity",
+                "RelativeHumidityUnit",
+                "WindDirAvg",
+                "WindDirAvgUnit",
+                "WindDirMax",
+                "WindDirMaxUnit",
+                "WindDirMin",
+                "WindDirMinUnit",
+                "WindSpeedAvg",
+                "WindSpeedAvgUnit",
+                "WindSpeedMax",
+                "WindSpeedMaxUnit",
+                "WindSpeedMin",
+                "WindSpeedMinUnit"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastFailure": "2019-12-02T02:53:52.00Z",
+            "lastNotification": "2019-12-02T02:53:47.00Z",
+            "lastSuccess": "2019-12-01T11:45:35.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 11818
+        },
+        "status": "failed",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "LocalTimeStamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "WeatherStation"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "id": "5d2ccd28dbf3aa57a6f31154",
+        "notification": {
+            "attrs": [],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://177.104.61.41:1026/v2/op/notify"
+            },
+            "lastFailure": "2019-11-23T19:40:07.00Z",
+            "lastNotification": "2019-11-23T19:40:07.00Z",
+            "lastSuccess": "2019-08-02T18:20:04.00Z",
+            "timesSent": 11106
+        },
+        "status": "failed",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "Probe"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5d2ccd4adbf3aa57a6f31155",
+        "notification": {
+            "attrs": [],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://177.104.61.41:1026/v2/op/notify"
+            }
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "WeatherStation"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5d2cd295dbf3aa57a6f31156",
+        "notification": {
+            "attrs": [],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://177.104.61.41:1026/v2/op/notify"
+            },
+            "lastFailure": "2019-12-02T02:53:47.00Z",
+            "lastNotification": "2019-12-02T02:53:47.00Z",
+            "lastSuccess": "2019-08-09T13:44:44.00Z",
+            "timesSent": 11253
+        },
+        "status": "failed",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "LocalTimeStamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "WeatherStation"
+                }
+            ]
+        }
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5d9bb5f69e928f430fc78ac4",
+        "notification": {
+            "attrs": [
+                "identifier",
+                "temperature1",
+                "battery",
+                "moisture1",
+                "moisture2",
+                "moisture3",
+                "timestamp"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastFailure": "2019-10-16T18:00:14.00Z",
+            "lastNotification": "2019-11-23T19:40:07.00Z",
+            "lastSuccess": "2019-11-23T19:40:07.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 9017
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "Probe"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2cdeb02380e05c6403530",
+        "notification": {
+            "attrs": [
+                " status ",
+                "timestamp"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T16:59:31.00Z",
+            "lastSuccess": "2019-11-18T16:59:31.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "Irrigation"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2ce0b02380e05c6403531",
+        "notification": {
+            "attrs": [
+                "name",
+                "timestamp",
+                "location",
+                "refFarmer"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T18:21:43.00Z",
+            "lastSuccess": "2019-11-18T18:21:43.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 2
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "Farm"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2ce3d02380e05c6403532",
+        "notification": {
+            "attrs": [
+                "name",
+                "timestamp",
+                "refManagementZone",
+                "refFarmer",
+                "validFrom",
+                "validTo",
+                "@context"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T17:03:33.00Z",
+            "lastSuccess": "2019-11-18T17:03:33.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "IrrigationPlan"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2ce7202380e05c6403533",
+        "notification": {
+            "attrs": [
+                "ValidFrom",
+                "timestamp",
+                "dateIssued",
+                "dateRetrieved",
+                "dayMaximum",
+                "dayMinimum",
+                "@context",
+                "source",
+                "validTo"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T18:11:22.00Z",
+            "lastSuccess": "2019-11-18T18:11:22.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "WaterNeed"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2cf1a02380e05c6403534",
+        "notification": {
+            "attrs": [
+                "name",
+                "timestamp",
+                "location"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T18:04:28.00Z",
+            "lastSuccess": "2019-11-18T18:04:28.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "Field"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2dd1e02380e05c6403535",
+        "notification": {
+            "attrs": [
+                "name",
+                "timestamp",
+                "location"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T18:04:28.00Z",
+            "lastSuccess": "2019-11-18T18:04:28.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "Field"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2dd7802380e05c6403536",
+        "notification": {
+            "attrs": [
+                "ValidFrom",
+                "timestamp",
+                "dateIssued",
+                "dateRetrieved",
+                "dayMaximum",
+                "dayMinimum",
+                "@context",
+                "source",
+                "validTo"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T18:11:22.00Z",
+            "lastSuccess": "2019-11-18T18:11:22.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "WaterNeed"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd2de6102380e05c6403537",
+        "notification": {
+            "attrs": [
+                "ValidFrom",
+                "timestamp",
+                "dateIssued",
+                "dateRetrieved",
+                "dayMaximum",
+                "dayMinimum",
+                "refIrrigationRec",
+                "source"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-18T18:11:22.00Z",
+            "lastSuccess": "2019-11-18T18:11:22.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 1
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "WaterNeed"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd422b002380e05c6403538",
+        "notification": {
+            "attrs": [
+                "location",
+                "name",
+                "identifier",
+                "battery",
+                "soilMoistureRawDepth1",
+                "soilMoistureRawDepth2",
+                "soilMoistureRawDepth3",
+                "soilMoistureCalibratedDepth1",
+                "soilMoistureCalibratedDepth2",
+                "soilMoistureCalibratedDepth3",
+                "soilTemperatureCalibratedDepth1",
+                "soilTemperatureCalibratedDepth2",
+                "soilTemperatureCalibratedDepth3",
+                "soilTemperatureRawDepth1",
+                "soilTemperatureRawDepth2",
+                "soilTemperatureRawDepth3",
+                "soilConductivityDepth1",
+                "soilConductivityDepth2",
+                "soilConductivityDepth3",
+                "refManagementZone",
+                "timestamp"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-23T19:40:06.00Z",
+            "lastSuccess": "2019-11-23T19:40:06.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 852
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "SoilProbe"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd438afe79f29b6682d9142",
+        "notification": {
+            "attrs": [
+                "identifier",
+                "battery",
+                "soilMoistureRawDepth1",
+                "soilMoistureRawDepth2",
+                "soilMoistureRawDepth3",
+                "soilTemperatureRawDepth1",
+                "timestamp"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-23T19:40:06.00Z",
+            "lastSuccess": "2019-11-23T19:40:06.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 851
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "SoilProbe"
+                }
+            ]
+        },
+        "throttling": 1
+    },
+    {
+        "description": "Notify QuantumLeap of count changes of any Sensor",
+        "id": "5dd438d1e79f29b6682d9143",
+        "notification": {
+            "attrs": [
+                "identifier",
+                "soilMoistureRawDepth1",
+                "soilMoistureRawDepth2",
+                "soilMoistureRawDepth3",
+                "soilTemperatureRawDepth1",
+                "timestamp"
+            ],
+            "attrsFormat": "normalized",
+            "http": {
+                "url": "http://quantum-leap:8668/v2/notify"
+            },
+            "lastNotification": "2019-11-23T19:40:06.00Z",
+            "lastSuccess": "2019-11-23T19:40:06.00Z",
+            "metadata": [
+                "dateCreated",
+                "dateModified"
+            ],
+            "timesSent": 851
+        },
+        "status": "active",
+        "subject": {
+            "condition": {
+                "attrs": [
+                    "timestamp"
+                ]
+            },
+            "entities": [
+                {
+                    "idPattern": ".*",
+                    "type": "SoilProbe"
+                }
+            ]
+        },
+        "throttling": 1
+    }
+]

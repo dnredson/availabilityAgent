@@ -1,0 +1,6842 @@
+[
+  {
+    "timestamp": 1574895528,
+    "cpu": 0.851911,
+    "memory": 3215704,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "608.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895533,
+    "cpu": 0.851894,
+    "memory": 3216084,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "608.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895538,
+    "cpu": 0.851868,
+    "memory": 3215720,
+    "tb": "mytb",
+    "tb-cpu": "0.51%",
+    "tb-mem": "608.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895543,
+    "cpu": 0.851844,
+    "memory": 3216216,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "608.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895548,
+    "cpu": 0.851824,
+    "memory": 3216060,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "608.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895553,
+    "cpu": 0.851795,
+    "memory": 3216060,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "608.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895558,
+    "cpu": 0.851941,
+    "memory": 3226864,
+    "tb": "mytb",
+    "tb-cpu": "27.85%",
+    "tb-mem": "620.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895563,
+    "cpu": 0.852974,
+    "memory": 3230336,
+    "tb": "mytb",
+    "tb-cpu": "34.35%",
+    "tb-mem": "623MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895568,
+    "cpu": 0.853301,
+    "memory": 3231856,
+    "tb": "mytb",
+    "tb-cpu": "22.45%",
+    "tb-mem": "623.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895573,
+    "cpu": 0.853579,
+    "memory": 3232716,
+    "tb": "mytb",
+    "tb-cpu": "76.79%",
+    "tb-mem": "625MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895578,
+    "cpu": 0.854012,
+    "memory": 3234460,
+    "tb": "mytb",
+    "tb-cpu": "16.61%",
+    "tb-mem": "625.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895583,
+    "cpu": 0.854227,
+    "memory": 3235048,
+    "tb": "mytb",
+    "tb-cpu": "108.98%",
+    "tb-mem": "625.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895588,
+    "cpu": 0.854772,
+    "memory": 3235560,
+    "tb": "mytb",
+    "tb-cpu": "28.95%",
+    "tb-mem": "625.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895593,
+    "cpu": 0.855016,
+    "memory": 3236616,
+    "tb": "mytb",
+    "tb-cpu": "24.87%",
+    "tb-mem": "626.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895598,
+    "cpu": 0.855251,
+    "memory": 3236440,
+    "tb": "mytb",
+    "tb-cpu": "15.38%",
+    "tb-mem": "626.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895603,
+    "cpu": 0.855394,
+    "memory": 3236976,
+    "tb": "mytb",
+    "tb-cpu": "13.02%",
+    "tb-mem": "626.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895609,
+    "cpu": 0.855554,
+    "memory": 3237808,
+    "tb": "mytb",
+    "tb-cpu": "22.53%",
+    "tb-mem": "626.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895614,
+    "cpu": 0.855803,
+    "memory": 3237864,
+    "tb": "mytb",
+    "tb-cpu": "13.96%",
+    "tb-mem": "626.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895619,
+    "cpu": 0.855949,
+    "memory": 3238284,
+    "tb": "mytb",
+    "tb-cpu": "26.79%",
+    "tb-mem": "626.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895624,
+    "cpu": 0.85615,
+    "memory": 3238364,
+    "tb": "mytb",
+    "tb-cpu": "12.88%",
+    "tb-mem": "627MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895629,
+    "cpu": 0.856307,
+    "memory": 3238784,
+    "tb": "mytb",
+    "tb-cpu": "15.35%",
+    "tb-mem": "627MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895634,
+    "cpu": 0.856471,
+    "memory": 3239724,
+    "tb": "mytb",
+    "tb-cpu": "15.87%",
+    "tb-mem": "627MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895639,
+    "cpu": 0.856694,
+    "memory": 3242976,
+    "tb": "mytb",
+    "tb-cpu": "12.21%",
+    "tb-mem": "627MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895644,
+    "cpu": 0.856874,
+    "memory": 3226112,
+    "tb": "mytb",
+    "tb-cpu": "14.81%",
+    "tb-mem": "627MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895649,
+    "cpu": 0.857058,
+    "memory": 3226680,
+    "tb": "mytb",
+    "tb-cpu": "16.04%",
+    "tb-mem": "627.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895654,
+    "cpu": 0.857226,
+    "memory": 3226736,
+    "tb": "mytb",
+    "tb-cpu": "16.06%",
+    "tb-mem": "627.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895659,
+    "cpu": 0.857398,
+    "memory": 3227288,
+    "tb": "mytb",
+    "tb-cpu": "14.30%",
+    "tb-mem": "627.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895664,
+    "cpu": 0.85757,
+    "memory": 3227336,
+    "tb": "mytb",
+    "tb-cpu": "11.35%",
+    "tb-mem": "627.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895669,
+    "cpu": 0.85767,
+    "memory": 3228352,
+    "tb": "mytb",
+    "tb-cpu": "13.74%",
+    "tb-mem": "627.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895674,
+    "cpu": 0.85783,
+    "memory": 3228268,
+    "tb": "mytb",
+    "tb-cpu": "13.77%",
+    "tb-mem": "627.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895679,
+    "cpu": 0.857996,
+    "memory": 3228332,
+    "tb": "mytb",
+    "tb-cpu": "12.66%",
+    "tb-mem": "627.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895684,
+    "cpu": 0.858105,
+    "memory": 3228876,
+    "tb": "mytb",
+    "tb-cpu": "13.02%",
+    "tb-mem": "627.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895689,
+    "cpu": 0.858228,
+    "memory": 3229272,
+    "tb": "mytb",
+    "tb-cpu": "13.56%",
+    "tb-mem": "627.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895694,
+    "cpu": 0.858348,
+    "memory": 3228844,
+    "tb": "mytb",
+    "tb-cpu": "14.03%",
+    "tb-mem": "627.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895699,
+    "cpu": 0.858505,
+    "memory": 3229844,
+    "tb": "mytb",
+    "tb-cpu": "12.88%",
+    "tb-mem": "627.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895704,
+    "cpu": 0.858642,
+    "memory": 3230332,
+    "tb": "mytb",
+    "tb-cpu": "16.61%",
+    "tb-mem": "627.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895709,
+    "cpu": 0.858791,
+    "memory": 3230224,
+    "tb": "mytb",
+    "tb-cpu": "15.35%",
+    "tb-mem": "627.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895714,
+    "cpu": 0.859005,
+    "memory": 3230108,
+    "tb": "mytb",
+    "tb-cpu": "67.10%",
+    "tb-mem": "627.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895719,
+    "cpu": 0.859386,
+    "memory": 3230000,
+    "tb": "mytb",
+    "tb-cpu": "14.35%",
+    "tb-mem": "627.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895724,
+    "cpu": 0.85956,
+    "memory": 3230960,
+    "tb": "mytb",
+    "tb-cpu": "14.27%",
+    "tb-mem": "627.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895729,
+    "cpu": 0.859842,
+    "memory": 3231348,
+    "tb": "mytb",
+    "tb-cpu": "15.60%",
+    "tb-mem": "627.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895734,
+    "cpu": 0.859971,
+    "memory": 3230968,
+    "tb": "mytb",
+    "tb-cpu": "14.40%",
+    "tb-mem": "628MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895739,
+    "cpu": 0.860066,
+    "memory": 3231712,
+    "tb": "mytb",
+    "tb-cpu": "13.00%",
+    "tb-mem": "628MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895744,
+    "cpu": 0.86024,
+    "memory": 3231852,
+    "tb": "mytb",
+    "tb-cpu": "18.80%",
+    "tb-mem": "627.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895749,
+    "cpu": 0.860403,
+    "memory": 3231884,
+    "tb": "mytb",
+    "tb-cpu": "15.52%",
+    "tb-mem": "628MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895754,
+    "cpu": 0.860574,
+    "memory": 3232132,
+    "tb": "mytb",
+    "tb-cpu": "15.07%",
+    "tb-mem": "628MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895759,
+    "cpu": 0.860737,
+    "memory": 3232024,
+    "tb": "mytb",
+    "tb-cpu": "10.26%",
+    "tb-mem": "628.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895764,
+    "cpu": 0.860874,
+    "memory": 3232304,
+    "tb": "mytb",
+    "tb-cpu": "15.53%",
+    "tb-mem": "628MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895769,
+    "cpu": 0.861019,
+    "memory": 3232148,
+    "tb": "mytb",
+    "tb-cpu": "13.96%",
+    "tb-mem": "628.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895774,
+    "cpu": 0.861151,
+    "memory": 3233024,
+    "tb": "mytb",
+    "tb-cpu": "12.52%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895779,
+    "cpu": 0.86131,
+    "memory": 3233336,
+    "tb": "mytb",
+    "tb-cpu": "12.14%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895784,
+    "cpu": 0.861453,
+    "memory": 3233536,
+    "tb": "mytb",
+    "tb-cpu": "15.61%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895789,
+    "cpu": 0.861581,
+    "memory": 3233428,
+    "tb": "mytb",
+    "tb-cpu": "17.73%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895794,
+    "cpu": 0.861727,
+    "memory": 3233552,
+    "tb": "mytb",
+    "tb-cpu": "16.39%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895799,
+    "cpu": 0.861932,
+    "memory": 3234172,
+    "tb": "mytb",
+    "tb-cpu": "13.30%",
+    "tb-mem": "628.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895804,
+    "cpu": 0.862086,
+    "memory": 3234684,
+    "tb": "mytb",
+    "tb-cpu": "13.77%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895809,
+    "cpu": 0.86224,
+    "memory": 3234480,
+    "tb": "mytb",
+    "tb-cpu": "14.75%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895814,
+    "cpu": 0.862374,
+    "memory": 3234380,
+    "tb": "mytb",
+    "tb-cpu": "10.98%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895819,
+    "cpu": 0.862539,
+    "memory": 3234496,
+    "tb": "mytb",
+    "tb-cpu": "13.33%",
+    "tb-mem": "628.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895824,
+    "cpu": 0.862679,
+    "memory": 3234992,
+    "tb": "mytb",
+    "tb-cpu": "12.91%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895829,
+    "cpu": 0.862821,
+    "memory": 3234744,
+    "tb": "mytb",
+    "tb-cpu": "14.85%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895834,
+    "cpu": 0.862981,
+    "memory": 3235512,
+    "tb": "mytb",
+    "tb-cpu": "14.77%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895839,
+    "cpu": 0.863126,
+    "memory": 3235760,
+    "tb": "mytb",
+    "tb-cpu": "14.36%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895844,
+    "cpu": 0.863274,
+    "memory": 3236000,
+    "tb": "mytb",
+    "tb-cpu": "11.25%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895849,
+    "cpu": 0.863402,
+    "memory": 3235640,
+    "tb": "mytb",
+    "tb-cpu": "15.56%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895854,
+    "cpu": 0.86372,
+    "memory": 3235624,
+    "tb": "mytb",
+    "tb-cpu": "11.25%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895859,
+    "cpu": 0.863878,
+    "memory": 3236128,
+    "tb": "mytb",
+    "tb-cpu": "10.69%",
+    "tb-mem": "628.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895864,
+    "cpu": 0.863995,
+    "memory": 3236024,
+    "tb": "mytb",
+    "tb-cpu": "15.96%",
+    "tb-mem": "628.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895869,
+    "cpu": 0.864137,
+    "memory": 3236636,
+    "tb": "mytb",
+    "tb-cpu": "17.73%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895874,
+    "cpu": 0.864259,
+    "memory": 3236860,
+    "tb": "mytb",
+    "tb-cpu": "11.83%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895879,
+    "cpu": 0.86439,
+    "memory": 3237108,
+    "tb": "mytb",
+    "tb-cpu": "14.92%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895884,
+    "cpu": 0.864564,
+    "memory": 3237388,
+    "tb": "mytb",
+    "tb-cpu": "12.40%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895889,
+    "cpu": 0.864695,
+    "memory": 3237396,
+    "tb": "mytb",
+    "tb-cpu": "12.47%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895894,
+    "cpu": 0.864866,
+    "memory": 3237528,
+    "tb": "mytb",
+    "tb-cpu": "15.04%",
+    "tb-mem": "628.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895899,
+    "cpu": 0.865025,
+    "memory": 3238148,
+    "tb": "mytb",
+    "tb-cpu": "11.64%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895904,
+    "cpu": 0.86515,
+    "memory": 3238272,
+    "tb": "mytb",
+    "tb-cpu": "10.74%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895909,
+    "cpu": 0.865306,
+    "memory": 3239032,
+    "tb": "mytb",
+    "tb-cpu": "10.59%",
+    "tb-mem": "628.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895914,
+    "cpu": 0.865457,
+    "memory": 3238784,
+    "tb": "mytb",
+    "tb-cpu": "14.59%",
+    "tb-mem": "628.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895919,
+    "cpu": 0.86561,
+    "memory": 3239064,
+    "tb": "mytb",
+    "tb-cpu": "11.88%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895924,
+    "cpu": 0.865753,
+    "memory": 3239112,
+    "tb": "mytb",
+    "tb-cpu": "12.27%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895929,
+    "cpu": 0.86588,
+    "memory": 3239020,
+    "tb": "mytb",
+    "tb-cpu": "13.17%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895934,
+    "cpu": 0.866034,
+    "memory": 3239656,
+    "tb": "mytb",
+    "tb-cpu": "12.53%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895939,
+    "cpu": 0.866199,
+    "memory": 3240044,
+    "tb": "mytb",
+    "tb-cpu": "13.35%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895944,
+    "cpu": 0.86635,
+    "memory": 3239208,
+    "tb": "mytb",
+    "tb-cpu": "13.10%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895949,
+    "cpu": 0.866486,
+    "memory": 3240480,
+    "tb": "mytb",
+    "tb-cpu": "12.61%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895954,
+    "cpu": 0.866608,
+    "memory": 3240264,
+    "tb": "mytb",
+    "tb-cpu": "13.90%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895959,
+    "cpu": 0.866764,
+    "memory": 3245480,
+    "tb": "mytb",
+    "tb-cpu": "14.68%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895964,
+    "cpu": 0.866912,
+    "memory": 3240604,
+    "tb": "mytb",
+    "tb-cpu": "13.58%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895969,
+    "cpu": 0.867051,
+    "memory": 3241232,
+    "tb": "mytb",
+    "tb-cpu": "16.61%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895974,
+    "cpu": 0.867191,
+    "memory": 3241184,
+    "tb": "mytb",
+    "tb-cpu": "16.01%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895979,
+    "cpu": 0.86735,
+    "memory": 3241804,
+    "tb": "mytb",
+    "tb-cpu": "10.09%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895984,
+    "cpu": 0.867501,
+    "memory": 3241556,
+    "tb": "mytb",
+    "tb-cpu": "13.43%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895989,
+    "cpu": 0.867779,
+    "memory": 3241928,
+    "tb": "mytb",
+    "tb-cpu": "16.14%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895994,
+    "cpu": 0.86791,
+    "memory": 3242052,
+    "tb": "mytb",
+    "tb-cpu": "10.61%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574895999,
+    "cpu": 0.868049,
+    "memory": 3242704,
+    "tb": "mytb",
+    "tb-cpu": "13.35%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896004,
+    "cpu": 0.868196,
+    "memory": 3242580,
+    "tb": "mytb",
+    "tb-cpu": "14.72%",
+    "tb-mem": "628.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896009,
+    "cpu": 0.86835,
+    "memory": 3242332,
+    "tb": "mytb",
+    "tb-cpu": "12.52%",
+    "tb-mem": "628.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896014,
+    "cpu": 0.868463,
+    "memory": 3243572,
+    "tb": "mytb",
+    "tb-cpu": "14.48%",
+    "tb-mem": "629MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896019,
+    "cpu": 0.868645,
+    "memory": 3243448,
+    "tb": "mytb",
+    "tb-cpu": "16.94%",
+    "tb-mem": "629.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896024,
+    "cpu": 0.868784,
+    "memory": 3243448,
+    "tb": "mytb",
+    "tb-cpu": "12.74%",
+    "tb-mem": "629.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896029,
+    "cpu": 0.868931,
+    "memory": 3244068,
+    "tb": "mytb",
+    "tb-cpu": "10.92%",
+    "tb-mem": "629.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896034,
+    "cpu": 0.869081,
+    "memory": 3244440,
+    "tb": "mytb",
+    "tb-cpu": "12.97%",
+    "tb-mem": "629.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896039,
+    "cpu": 0.86922,
+    "memory": 3243696,
+    "tb": "mytb",
+    "tb-cpu": "12.52%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896044,
+    "cpu": 0.869353,
+    "memory": 3244440,
+    "tb": "mytb",
+    "tb-cpu": "14.61%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896049,
+    "cpu": 0.869529,
+    "memory": 3245184,
+    "tb": "mytb",
+    "tb-cpu": "13.68%",
+    "tb-mem": "629.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896054,
+    "cpu": 0.869699,
+    "memory": 3244832,
+    "tb": "mytb",
+    "tb-cpu": "13.04%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896059,
+    "cpu": 0.86983,
+    "memory": 3245204,
+    "tb": "mytb",
+    "tb-cpu": "13.98%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896064,
+    "cpu": 0.869991,
+    "memory": 3244956,
+    "tb": "mytb",
+    "tb-cpu": "12.91%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896069,
+    "cpu": 0.870139,
+    "memory": 3244832,
+    "tb": "mytb",
+    "tb-cpu": "13.74%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896074,
+    "cpu": 0.870286,
+    "memory": 3245452,
+    "tb": "mytb",
+    "tb-cpu": "14.13%",
+    "tb-mem": "629.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896079,
+    "cpu": 0.870453,
+    "memory": 3245608,
+    "tb": "mytb",
+    "tb-cpu": "11.83%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896084,
+    "cpu": 0.870609,
+    "memory": 3246228,
+    "tb": "mytb",
+    "tb-cpu": "15.82%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896089,
+    "cpu": 0.870754,
+    "memory": 3246444,
+    "tb": "mytb",
+    "tb-cpu": "15.65%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896094,
+    "cpu": 0.870889,
+    "memory": 3246692,
+    "tb": "mytb",
+    "tb-cpu": "11.06%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896099,
+    "cpu": 0.871045,
+    "memory": 3246692,
+    "tb": "mytb",
+    "tb-cpu": "11.99%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896104,
+    "cpu": 0.871184,
+    "memory": 3246320,
+    "tb": "mytb",
+    "tb-cpu": "12.50%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896109,
+    "cpu": 0.871309,
+    "memory": 3246816,
+    "tb": "mytb",
+    "tb-cpu": "14.42%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896114,
+    "cpu": 0.871451,
+    "memory": 3247312,
+    "tb": "mytb",
+    "tb-cpu": "15.02%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896119,
+    "cpu": 0.871589,
+    "memory": 3247808,
+    "tb": "mytb",
+    "tb-cpu": "12.04%",
+    "tb-mem": "629.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896124,
+    "cpu": 0.871703,
+    "memory": 3247312,
+    "tb": "mytb",
+    "tb-cpu": "13.61%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896129,
+    "cpu": 0.871884,
+    "memory": 3247528,
+    "tb": "mytb",
+    "tb-cpu": "14.90%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896134,
+    "cpu": 0.872065,
+    "memory": 3247808,
+    "tb": "mytb",
+    "tb-cpu": "13.47%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896139,
+    "cpu": 0.872215,
+    "memory": 3248180,
+    "tb": "mytb",
+    "tb-cpu": "11.67%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896144,
+    "cpu": 0.87234,
+    "memory": 3248676,
+    "tb": "mytb",
+    "tb-cpu": "12.34%",
+    "tb-mem": "629.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896149,
+    "cpu": 0.872467,
+    "memory": 3248676,
+    "tb": "mytb",
+    "tb-cpu": "17.19%",
+    "tb-mem": "629.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896154,
+    "cpu": 0.872603,
+    "memory": 3248676,
+    "tb": "mytb",
+    "tb-cpu": "13.39%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896159,
+    "cpu": 0.872741,
+    "memory": 3248924,
+    "tb": "mytb",
+    "tb-cpu": "14.65%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896164,
+    "cpu": 0.872891,
+    "memory": 3248584,
+    "tb": "mytb",
+    "tb-cpu": "12.56%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896169,
+    "cpu": 0.873046,
+    "memory": 3247760,
+    "tb": "mytb",
+    "tb-cpu": "15.38%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896174,
+    "cpu": 0.873176,
+    "memory": 3247388,
+    "tb": "mytb",
+    "tb-cpu": "13.04%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896179,
+    "cpu": 0.873349,
+    "memory": 3247264,
+    "tb": "mytb",
+    "tb-cpu": "14.98%",
+    "tb-mem": "629.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896184,
+    "cpu": 0.873507,
+    "memory": 3248412,
+    "tb": "mytb",
+    "tb-cpu": "15.14%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896189,
+    "cpu": 0.87364,
+    "memory": 3248072,
+    "tb": "mytb",
+    "tb-cpu": "16.12%",
+    "tb-mem": "629.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896194,
+    "cpu": 0.873793,
+    "memory": 3248072,
+    "tb": "mytb",
+    "tb-cpu": "15.10%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896199,
+    "cpu": 0.873948,
+    "memory": 3249320,
+    "tb": "mytb",
+    "tb-cpu": "12.56%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896204,
+    "cpu": 0.874075,
+    "memory": 3248956,
+    "tb": "mytb",
+    "tb-cpu": "12.14%",
+    "tb-mem": "629.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896209,
+    "cpu": 0.874236,
+    "memory": 3249452,
+    "tb": "mytb",
+    "tb-cpu": "11.07%",
+    "tb-mem": "629.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896214,
+    "cpu": 0.874397,
+    "memory": 3248676,
+    "tb": "mytb",
+    "tb-cpu": "16.27%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896219,
+    "cpu": 0.874547,
+    "memory": 3248552,
+    "tb": "mytb",
+    "tb-cpu": "10.57%",
+    "tb-mem": "628.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896224,
+    "cpu": 0.874699,
+    "memory": 3248800,
+    "tb": "mytb",
+    "tb-cpu": "15.12%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896229,
+    "cpu": 0.874886,
+    "memory": 3249188,
+    "tb": "mytb",
+    "tb-cpu": "12.85%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896234,
+    "cpu": 0.875003,
+    "memory": 3249560,
+    "tb": "mytb",
+    "tb-cpu": "12.67%",
+    "tb-mem": "628.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896239,
+    "cpu": 0.875158,
+    "memory": 3249320,
+    "tb": "mytb",
+    "tb-cpu": "11.07%",
+    "tb-mem": "628MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896244,
+    "cpu": 0.875322,
+    "memory": 3248700,
+    "tb": "mytb",
+    "tb-cpu": "14.17%",
+    "tb-mem": "627.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896249,
+    "cpu": 0.87546,
+    "memory": 3249124,
+    "tb": "mytb",
+    "tb-cpu": "13.45%",
+    "tb-mem": "627.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896254,
+    "cpu": 0.875612,
+    "memory": 3248720,
+    "tb": "mytb",
+    "tb-cpu": "14.09%",
+    "tb-mem": "627.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896259,
+    "cpu": 0.875762,
+    "memory": 3232352,
+    "tb": "mytb",
+    "tb-cpu": "15.81%",
+    "tb-mem": "626.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896264,
+    "cpu": 0.875929,
+    "memory": 3231484,
+    "tb": "mytb",
+    "tb-cpu": "15.80%",
+    "tb-mem": "626.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896269,
+    "cpu": 0.876092,
+    "memory": 3229660,
+    "tb": "mytb",
+    "tb-cpu": "13.53%",
+    "tb-mem": "623.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896274,
+    "cpu": 0.87623,
+    "memory": 3228716,
+    "tb": "mytb",
+    "tb-cpu": "14.36%",
+    "tb-mem": "622.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896279,
+    "cpu": 0.876386,
+    "memory": 3226948,
+    "tb": "mytb",
+    "tb-cpu": "14.79%",
+    "tb-mem": "621.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896284,
+    "cpu": 0.876529,
+    "memory": 3226080,
+    "tb": "mytb",
+    "tb-cpu": "11.77%",
+    "tb-mem": "620.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896289,
+    "cpu": 0.87669,
+    "memory": 3224760,
+    "tb": "mytb",
+    "tb-cpu": "14.46%",
+    "tb-mem": "619MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896294,
+    "cpu": 0.876874,
+    "memory": 3223240,
+    "tb": "mytb",
+    "tb-cpu": "14.19%",
+    "tb-mem": "618.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896299,
+    "cpu": 0.877012,
+    "memory": 3222836,
+    "tb": "mytb",
+    "tb-cpu": "14.03%",
+    "tb-mem": "617.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896304,
+    "cpu": 0.877133,
+    "memory": 3221872,
+    "tb": "mytb",
+    "tb-cpu": "13.44%",
+    "tb-mem": "616.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896309,
+    "cpu": 0.877285,
+    "memory": 3221124,
+    "tb": "mytb",
+    "tb-cpu": "12.79%",
+    "tb-mem": "615.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896314,
+    "cpu": 0.877406,
+    "memory": 3220424,
+    "tb": "mytb",
+    "tb-cpu": "12.27%",
+    "tb-mem": "615MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896319,
+    "cpu": 0.877558,
+    "memory": 3218956,
+    "tb": "mytb",
+    "tb-cpu": "14.26%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896324,
+    "cpu": 0.877708,
+    "memory": 3218740,
+    "tb": "mytb",
+    "tb-cpu": "13.69%",
+    "tb-mem": "613.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896329,
+    "cpu": 0.87784,
+    "memory": 3219328,
+    "tb": "mytb",
+    "tb-cpu": "13.77%",
+    "tb-mem": "612.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896334,
+    "cpu": 0.878,
+    "memory": 3219192,
+    "tb": "mytb",
+    "tb-cpu": "11.69%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896339,
+    "cpu": 0.87811,
+    "memory": 3218876,
+    "tb": "mytb",
+    "tb-cpu": "13.93%",
+    "tb-mem": "611.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896344,
+    "cpu": 0.878248,
+    "memory": 3218416,
+    "tb": "mytb",
+    "tb-cpu": "12.77%",
+    "tb-mem": "611.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896349,
+    "cpu": 0.878434,
+    "memory": 3217640,
+    "tb": "mytb",
+    "tb-cpu": "9.75%",
+    "tb-mem": "611.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896354,
+    "cpu": 0.878563,
+    "memory": 3217764,
+    "tb": "mytb",
+    "tb-cpu": "11.49%",
+    "tb-mem": "610.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896359,
+    "cpu": 0.878688,
+    "memory": 3218044,
+    "tb": "mytb",
+    "tb-cpu": "11.64%",
+    "tb-mem": "610.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896364,
+    "cpu": 0.878843,
+    "memory": 3217996,
+    "tb": "mytb",
+    "tb-cpu": "11.63%",
+    "tb-mem": "610.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896369,
+    "cpu": 0.878984,
+    "memory": 3218368,
+    "tb": "mytb",
+    "tb-cpu": "12.14%",
+    "tb-mem": "610.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896374,
+    "cpu": 0.879161,
+    "memory": 3218740,
+    "tb": "mytb",
+    "tb-cpu": "10.92%",
+    "tb-mem": "610.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896379,
+    "cpu": 0.879293,
+    "memory": 3218988,
+    "tb": "mytb",
+    "tb-cpu": "13.45%",
+    "tb-mem": "610.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896384,
+    "cpu": 0.879431,
+    "memory": 3219112,
+    "tb": "mytb",
+    "tb-cpu": "12.20%",
+    "tb-mem": "610.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896389,
+    "cpu": 0.879544,
+    "memory": 3219112,
+    "tb": "mytb",
+    "tb-cpu": "14.76%",
+    "tb-mem": "610.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896394,
+    "cpu": 0.879678,
+    "memory": 3219360,
+    "tb": "mytb",
+    "tb-cpu": "12.90%",
+    "tb-mem": "611MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896399,
+    "cpu": 0.87983,
+    "memory": 3219980,
+    "tb": "mytb",
+    "tb-cpu": "12.73%",
+    "tb-mem": "610.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896404,
+    "cpu": 0.879996,
+    "memory": 3219732,
+    "tb": "mytb",
+    "tb-cpu": "15.14%",
+    "tb-mem": "610.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896409,
+    "cpu": 0.880142,
+    "memory": 3220508,
+    "tb": "mytb",
+    "tb-cpu": "14.69%",
+    "tb-mem": "611.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896414,
+    "cpu": 0.880303,
+    "memory": 3220600,
+    "tb": "mytb",
+    "tb-cpu": "10.80%",
+    "tb-mem": "611.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896419,
+    "cpu": 0.880435,
+    "memory": 3220352,
+    "tb": "mytb",
+    "tb-cpu": "16.19%",
+    "tb-mem": "611.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896424,
+    "cpu": 0.880561,
+    "memory": 3221220,
+    "tb": "mytb",
+    "tb-cpu": "15.53%",
+    "tb-mem": "611.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896429,
+    "cpu": 0.880752,
+    "memory": 3221980,
+    "tb": "mytb",
+    "tb-cpu": "14.68%",
+    "tb-mem": "612MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896434,
+    "cpu": 0.880913,
+    "memory": 3222320,
+    "tb": "mytb",
+    "tb-cpu": "14.09%",
+    "tb-mem": "611.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896439,
+    "cpu": 0.881061,
+    "memory": 3222088,
+    "tb": "mytb",
+    "tb-cpu": "15.71%",
+    "tb-mem": "612.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896444,
+    "cpu": 0.881188,
+    "memory": 3222508,
+    "tb": "mytb",
+    "tb-cpu": "14.49%",
+    "tb-mem": "612.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896449,
+    "cpu": 0.881314,
+    "memory": 3222896,
+    "tb": "mytb",
+    "tb-cpu": "12.73%",
+    "tb-mem": "612.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896454,
+    "cpu": 0.88144,
+    "memory": 3223020,
+    "tb": "mytb",
+    "tb-cpu": "12.54%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896459,
+    "cpu": 0.881592,
+    "memory": 3223392,
+    "tb": "mytb",
+    "tb-cpu": "13.00%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896464,
+    "cpu": 0.881738,
+    "memory": 3223780,
+    "tb": "mytb",
+    "tb-cpu": "16.61%",
+    "tb-mem": "612.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896469,
+    "cpu": 0.881864,
+    "memory": 3223688,
+    "tb": "mytb",
+    "tb-cpu": "11.29%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896474,
+    "cpu": 0.882004,
+    "memory": 3223952,
+    "tb": "mytb",
+    "tb-cpu": "10.91%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896479,
+    "cpu": 0.882156,
+    "memory": 3224572,
+    "tb": "mytb",
+    "tb-cpu": "12.14%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896484,
+    "cpu": 0.882266,
+    "memory": 3224448,
+    "tb": "mytb",
+    "tb-cpu": "13.99%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896489,
+    "cpu": 0.882421,
+    "memory": 3223828,
+    "tb": "mytb",
+    "tb-cpu": "11.24%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896494,
+    "cpu": 0.882558,
+    "memory": 3224168,
+    "tb": "mytb",
+    "tb-cpu": "12.43%",
+    "tb-mem": "612.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896499,
+    "cpu": 0.882676,
+    "memory": 3224912,
+    "tb": "mytb",
+    "tb-cpu": "14.35%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896504,
+    "cpu": 0.882839,
+    "memory": 3224912,
+    "tb": "mytb",
+    "tb-cpu": "13.36%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896509,
+    "cpu": 0.883013,
+    "memory": 3225408,
+    "tb": "mytb",
+    "tb-cpu": "15.23%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896514,
+    "cpu": 0.883162,
+    "memory": 3226152,
+    "tb": "mytb",
+    "tb-cpu": "12.94%",
+    "tb-mem": "612.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896519,
+    "cpu": 0.883285,
+    "memory": 3226060,
+    "tb": "mytb",
+    "tb-cpu": "14.38%",
+    "tb-mem": "612.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896524,
+    "cpu": 0.883422,
+    "memory": 3226276,
+    "tb": "mytb",
+    "tb-cpu": "13.30%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896529,
+    "cpu": 0.883548,
+    "memory": 3226152,
+    "tb": "mytb",
+    "tb-cpu": "14.67%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896534,
+    "cpu": 0.883688,
+    "memory": 3226524,
+    "tb": "mytb",
+    "tb-cpu": "13.73%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896539,
+    "cpu": 0.883811,
+    "memory": 3226400,
+    "tb": "mytb",
+    "tb-cpu": "11.98%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896544,
+    "cpu": 0.883966,
+    "memory": 3226804,
+    "tb": "mytb",
+    "tb-cpu": "14.07%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896549,
+    "cpu": 0.884126,
+    "memory": 3227284,
+    "tb": "mytb",
+    "tb-cpu": "12.26%",
+    "tb-mem": "612.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896554,
+    "cpu": 0.884271,
+    "memory": 3227036,
+    "tb": "mytb",
+    "tb-cpu": "12.43%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896559,
+    "cpu": 0.884403,
+    "memory": 3227036,
+    "tb": "mytb",
+    "tb-cpu": "16.14%",
+    "tb-mem": "612.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896564,
+    "cpu": 0.884528,
+    "memory": 3227284,
+    "tb": "mytb",
+    "tb-cpu": "13.17%",
+    "tb-mem": "612.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896569,
+    "cpu": 0.88466,
+    "memory": 3227220,
+    "tb": "mytb",
+    "tb-cpu": "11.82%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896574,
+    "cpu": 0.884803,
+    "memory": 3228088,
+    "tb": "mytb",
+    "tb-cpu": "11.34%",
+    "tb-mem": "612.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896579,
+    "cpu": 0.884932,
+    "memory": 3227840,
+    "tb": "mytb",
+    "tb-cpu": "15.38%",
+    "tb-mem": "612.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896584,
+    "cpu": 0.885066,
+    "memory": 3228708,
+    "tb": "mytb",
+    "tb-cpu": "15.60%",
+    "tb-mem": "612.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896589,
+    "cpu": 0.885184,
+    "memory": 3228460,
+    "tb": "mytb",
+    "tb-cpu": "14.08%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896594,
+    "cpu": 0.885363,
+    "memory": 3228864,
+    "tb": "mytb",
+    "tb-cpu": "13.39%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896599,
+    "cpu": 0.885497,
+    "memory": 3228740,
+    "tb": "mytb",
+    "tb-cpu": "13.61%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896604,
+    "cpu": 0.885643,
+    "memory": 3228864,
+    "tb": "mytb",
+    "tb-cpu": "9.32%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896609,
+    "cpu": 0.885747,
+    "memory": 3228988,
+    "tb": "mytb",
+    "tb-cpu": "11.90%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896614,
+    "cpu": 0.885879,
+    "memory": 3229484,
+    "tb": "mytb",
+    "tb-cpu": "11.93%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896619,
+    "cpu": 0.88601,
+    "memory": 3230600,
+    "tb": "mytb",
+    "tb-cpu": "12.20%",
+    "tb-mem": "613.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896624,
+    "cpu": 0.886167,
+    "memory": 3231220,
+    "tb": "mytb",
+    "tb-cpu": "15.02%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896629,
+    "cpu": 0.88631,
+    "memory": 3230940,
+    "tb": "mytb",
+    "tb-cpu": "14.76%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896634,
+    "cpu": 0.886461,
+    "memory": 3230816,
+    "tb": "mytb",
+    "tb-cpu": "11.49%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896639,
+    "cpu": 0.886609,
+    "memory": 3231932,
+    "tb": "mytb",
+    "tb-cpu": "13.64%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896644,
+    "cpu": 0.886752,
+    "memory": 3231312,
+    "tb": "mytb",
+    "tb-cpu": "12.76%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896649,
+    "cpu": 0.886874,
+    "memory": 3232056,
+    "tb": "mytb",
+    "tb-cpu": "13.43%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896654,
+    "cpu": 0.887009,
+    "memory": 3232056,
+    "tb": "mytb",
+    "tb-cpu": "14.13%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896659,
+    "cpu": 0.887154,
+    "memory": 3231684,
+    "tb": "mytb",
+    "tb-cpu": "15.18%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896664,
+    "cpu": 0.887263,
+    "memory": 3232460,
+    "tb": "mytb",
+    "tb-cpu": "13.12%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896669,
+    "cpu": 0.887425,
+    "memory": 3232428,
+    "tb": "mytb",
+    "tb-cpu": "15.44%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896674,
+    "cpu": 0.887565,
+    "memory": 3232552,
+    "tb": "mytb",
+    "tb-cpu": "10.58%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896679,
+    "cpu": 0.887682,
+    "memory": 3233272,
+    "tb": "mytb",
+    "tb-cpu": "16.36%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896684,
+    "cpu": 0.887836,
+    "memory": 3233172,
+    "tb": "mytb",
+    "tb-cpu": "9.03%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896689,
+    "cpu": 0.887961,
+    "memory": 3233700,
+    "tb": "mytb",
+    "tb-cpu": "15.42%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896694,
+    "cpu": 0.888121,
+    "memory": 3233544,
+    "tb": "mytb",
+    "tb-cpu": "15.35%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896699,
+    "cpu": 0.888291,
+    "memory": 3234660,
+    "tb": "mytb",
+    "tb-cpu": "12.35%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896704,
+    "cpu": 0.888448,
+    "memory": 3234536,
+    "tb": "mytb",
+    "tb-cpu": "10.81%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896709,
+    "cpu": 0.888593,
+    "memory": 3234544,
+    "tb": "mytb",
+    "tb-cpu": "13.48%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896714,
+    "cpu": 0.88871,
+    "memory": 3234164,
+    "tb": "mytb",
+    "tb-cpu": "14.01%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896719,
+    "cpu": 0.888858,
+    "memory": 3234900,
+    "tb": "mytb",
+    "tb-cpu": "10.92%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896724,
+    "cpu": 0.889011,
+    "memory": 3235148,
+    "tb": "mytb",
+    "tb-cpu": "13.03%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896729,
+    "cpu": 0.889137,
+    "memory": 3235148,
+    "tb": "mytb",
+    "tb-cpu": "11.20%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896734,
+    "cpu": 0.889266,
+    "memory": 3235396,
+    "tb": "mytb",
+    "tb-cpu": "13.02%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896739,
+    "cpu": 0.88942,
+    "memory": 3235768,
+    "tb": "mytb",
+    "tb-cpu": "13.91%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896744,
+    "cpu": 0.889588,
+    "memory": 3236016,
+    "tb": "mytb",
+    "tb-cpu": "14.32%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896749,
+    "cpu": 0.889764,
+    "memory": 3235892,
+    "tb": "mytb",
+    "tb-cpu": "14.69%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896754,
+    "cpu": 0.889917,
+    "memory": 3236016,
+    "tb": "mytb",
+    "tb-cpu": "13.11%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896759,
+    "cpu": 0.890029,
+    "memory": 3235892,
+    "tb": "mytb",
+    "tb-cpu": "12.40%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896764,
+    "cpu": 0.890182,
+    "memory": 3236760,
+    "tb": "mytb",
+    "tb-cpu": "13.79%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896769,
+    "cpu": 0.890271,
+    "memory": 3236512,
+    "tb": "mytb",
+    "tb-cpu": "16.14%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896774,
+    "cpu": 0.890405,
+    "memory": 3237132,
+    "tb": "mytb",
+    "tb-cpu": "15.28%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896779,
+    "cpu": 0.890538,
+    "memory": 3237380,
+    "tb": "mytb",
+    "tb-cpu": "12.36%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896784,
+    "cpu": 0.890664,
+    "memory": 3237256,
+    "tb": "mytb",
+    "tb-cpu": "12.51%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896789,
+    "cpu": 0.890839,
+    "memory": 3237008,
+    "tb": "mytb",
+    "tb-cpu": "13.87%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896794,
+    "cpu": 0.890996,
+    "memory": 3237876,
+    "tb": "mytb",
+    "tb-cpu": "14.92%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896799,
+    "cpu": 0.891149,
+    "memory": 3237876,
+    "tb": "mytb",
+    "tb-cpu": "13.09%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896804,
+    "cpu": 0.891283,
+    "memory": 3237876,
+    "tb": "mytb",
+    "tb-cpu": "14.18%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896809,
+    "cpu": 0.891461,
+    "memory": 3238496,
+    "tb": "mytb",
+    "tb-cpu": "13.12%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896814,
+    "cpu": 0.891617,
+    "memory": 3238496,
+    "tb": "mytb",
+    "tb-cpu": "16.24%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896819,
+    "cpu": 0.891728,
+    "memory": 3238372,
+    "tb": "mytb",
+    "tb-cpu": "14.86%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896824,
+    "cpu": 0.891859,
+    "memory": 3239364,
+    "tb": "mytb",
+    "tb-cpu": "12.93%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896829,
+    "cpu": 0.891993,
+    "memory": 3238992,
+    "tb": "mytb",
+    "tb-cpu": "13.59%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896834,
+    "cpu": 0.892155,
+    "memory": 3239612,
+    "tb": "mytb",
+    "tb-cpu": "12.47%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896839,
+    "cpu": 0.892294,
+    "memory": 3239488,
+    "tb": "mytb",
+    "tb-cpu": "12.65%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896844,
+    "cpu": 0.892425,
+    "memory": 3239736,
+    "tb": "mytb",
+    "tb-cpu": "12.03%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896849,
+    "cpu": 0.892558,
+    "memory": 3240232,
+    "tb": "mytb",
+    "tb-cpu": "16.70%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896854,
+    "cpu": 0.8927,
+    "memory": 3240232,
+    "tb": "mytb",
+    "tb-cpu": "12.71%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896859,
+    "cpu": 0.892807,
+    "memory": 3239736,
+    "tb": "mytb",
+    "tb-cpu": "14.33%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896864,
+    "cpu": 0.892968,
+    "memory": 3240852,
+    "tb": "mytb",
+    "tb-cpu": "12.41%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896869,
+    "cpu": 0.893091,
+    "memory": 3240976,
+    "tb": "mytb",
+    "tb-cpu": "12.43%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896874,
+    "cpu": 0.893264,
+    "memory": 3241720,
+    "tb": "mytb",
+    "tb-cpu": "15.49%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896879,
+    "cpu": 0.893425,
+    "memory": 3225940,
+    "tb": "mytb",
+    "tb-cpu": "13.71%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896884,
+    "cpu": 0.893567,
+    "memory": 3226468,
+    "tb": "mytb",
+    "tb-cpu": "14.62%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896889,
+    "cpu": 0.893706,
+    "memory": 3226592,
+    "tb": "mytb",
+    "tb-cpu": "14.73%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896894,
+    "cpu": 0.893845,
+    "memory": 3226840,
+    "tb": "mytb",
+    "tb-cpu": "15.12%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896899,
+    "cpu": 0.894001,
+    "memory": 3227088,
+    "tb": "mytb",
+    "tb-cpu": "14.23%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896904,
+    "cpu": 0.894156,
+    "memory": 3226592,
+    "tb": "mytb",
+    "tb-cpu": "13.78%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896909,
+    "cpu": 0.89434,
+    "memory": 3227212,
+    "tb": "mytb",
+    "tb-cpu": "11.71%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896914,
+    "cpu": 0.894468,
+    "memory": 3227180,
+    "tb": "mytb",
+    "tb-cpu": "12.80%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896919,
+    "cpu": 0.894604,
+    "memory": 3227336,
+    "tb": "mytb",
+    "tb-cpu": "14.75%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896924,
+    "cpu": 0.89474,
+    "memory": 3227428,
+    "tb": "mytb",
+    "tb-cpu": "14.49%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896929,
+    "cpu": 0.894851,
+    "memory": 3227708,
+    "tb": "mytb",
+    "tb-cpu": "14.60%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896934,
+    "cpu": 0.895012,
+    "memory": 3227988,
+    "tb": "mytb",
+    "tb-cpu": "10.60%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896939,
+    "cpu": 0.895123,
+    "memory": 3227956,
+    "tb": "mytb",
+    "tb-cpu": "10.00%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896944,
+    "cpu": 0.895265,
+    "memory": 3228328,
+    "tb": "mytb",
+    "tb-cpu": "16.91%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896949,
+    "cpu": 0.895403,
+    "memory": 3228700,
+    "tb": "mytb",
+    "tb-cpu": "14.29%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896954,
+    "cpu": 0.895584,
+    "memory": 3228204,
+    "tb": "mytb",
+    "tb-cpu": "11.38%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896959,
+    "cpu": 0.895723,
+    "memory": 3228824,
+    "tb": "mytb",
+    "tb-cpu": "12.10%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896964,
+    "cpu": 0.895834,
+    "memory": 3229196,
+    "tb": "mytb",
+    "tb-cpu": "14.75%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896969,
+    "cpu": 0.895939,
+    "memory": 3229444,
+    "tb": "mytb",
+    "tb-cpu": "14.55%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896974,
+    "cpu": 0.896078,
+    "memory": 3228824,
+    "tb": "mytb",
+    "tb-cpu": "11.85%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896979,
+    "cpu": 0.896211,
+    "memory": 3228948,
+    "tb": "mytb",
+    "tb-cpu": "13.36%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896984,
+    "cpu": 0.896329,
+    "memory": 3230064,
+    "tb": "mytb",
+    "tb-cpu": "13.75%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896989,
+    "cpu": 0.896448,
+    "memory": 3230188,
+    "tb": "mytb",
+    "tb-cpu": "13.56%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896994,
+    "cpu": 0.896583,
+    "memory": 3229816,
+    "tb": "mytb",
+    "tb-cpu": "14.71%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574896999,
+    "cpu": 0.896753,
+    "memory": 3230188,
+    "tb": "mytb",
+    "tb-cpu": "14.18%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897004,
+    "cpu": 0.896889,
+    "memory": 3230560,
+    "tb": "mytb",
+    "tb-cpu": "14.16%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897009,
+    "cpu": 0.897039,
+    "memory": 3231056,
+    "tb": "mytb",
+    "tb-cpu": "15.21%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897014,
+    "cpu": 0.897172,
+    "memory": 3230808,
+    "tb": "mytb",
+    "tb-cpu": "13.76%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897019,
+    "cpu": 0.897296,
+    "memory": 3231428,
+    "tb": "mytb",
+    "tb-cpu": "15.22%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897024,
+    "cpu": 0.897429,
+    "memory": 3231180,
+    "tb": "mytb",
+    "tb-cpu": "13.59%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897029,
+    "cpu": 0.897577,
+    "memory": 3232840,
+    "tb": "mytb",
+    "tb-cpu": "15.17%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897034,
+    "cpu": 0.897707,
+    "memory": 3232048,
+    "tb": "mytb",
+    "tb-cpu": "8.08%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897039,
+    "cpu": 0.89784,
+    "memory": 3231800,
+    "tb": "mytb",
+    "tb-cpu": "11.24%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897044,
+    "cpu": 0.897973,
+    "memory": 3232544,
+    "tb": "mytb",
+    "tb-cpu": "14.21%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897049,
+    "cpu": 0.898145,
+    "memory": 3232420,
+    "tb": "mytb",
+    "tb-cpu": "15.68%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897054,
+    "cpu": 0.898328,
+    "memory": 3232172,
+    "tb": "mytb",
+    "tb-cpu": "11.39%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897059,
+    "cpu": 0.898472,
+    "memory": 3232668,
+    "tb": "mytb",
+    "tb-cpu": "13.32%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897064,
+    "cpu": 0.898622,
+    "memory": 3232916,
+    "tb": "mytb",
+    "tb-cpu": "12.30%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897069,
+    "cpu": 0.898755,
+    "memory": 3233040,
+    "tb": "mytb",
+    "tb-cpu": "11.59%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897074,
+    "cpu": 0.89889,
+    "memory": 3233288,
+    "tb": "mytb",
+    "tb-cpu": "13.05%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897079,
+    "cpu": 0.899037,
+    "memory": 3233784,
+    "tb": "mytb",
+    "tb-cpu": "15.63%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897084,
+    "cpu": 0.899184,
+    "memory": 3233660,
+    "tb": "mytb",
+    "tb-cpu": "10.98%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897089,
+    "cpu": 0.899313,
+    "memory": 3233784,
+    "tb": "mytb",
+    "tb-cpu": "12.99%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897094,
+    "cpu": 0.899502,
+    "memory": 3233660,
+    "tb": "mytb",
+    "tb-cpu": "11.65%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897099,
+    "cpu": 0.899643,
+    "memory": 3234900,
+    "tb": "mytb",
+    "tb-cpu": "15.17%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897104,
+    "cpu": 0.899807,
+    "memory": 3235148,
+    "tb": "mytb",
+    "tb-cpu": "13.77%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897109,
+    "cpu": 0.899916,
+    "memory": 3235272,
+    "tb": "mytb",
+    "tb-cpu": "12.76%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897114,
+    "cpu": 0.900085,
+    "memory": 3235520,
+    "tb": "mytb",
+    "tb-cpu": "10.37%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897119,
+    "cpu": 0.900234,
+    "memory": 3235116,
+    "tb": "mytb",
+    "tb-cpu": "15.29%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897124,
+    "cpu": 0.900359,
+    "memory": 3235488,
+    "tb": "mytb",
+    "tb-cpu": "11.14%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897129,
+    "cpu": 0.900494,
+    "memory": 3235364,
+    "tb": "mytb",
+    "tb-cpu": "12.13%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897134,
+    "cpu": 0.900588,
+    "memory": 3235860,
+    "tb": "mytb",
+    "tb-cpu": "10.16%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897139,
+    "cpu": 0.900726,
+    "memory": 3235860,
+    "tb": "mytb",
+    "tb-cpu": "13.22%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897144,
+    "cpu": 0.900864,
+    "memory": 3236076,
+    "tb": "mytb",
+    "tb-cpu": "12.94%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897149,
+    "cpu": 0.90101,
+    "memory": 3236604,
+    "tb": "mytb",
+    "tb-cpu": "12.17%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897154,
+    "cpu": 0.901118,
+    "memory": 3236480,
+    "tb": "mytb",
+    "tb-cpu": "17.31%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897159,
+    "cpu": 0.90125,
+    "memory": 3236604,
+    "tb": "mytb",
+    "tb-cpu": "17.22%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897164,
+    "cpu": 0.901408,
+    "memory": 3236884,
+    "tb": "mytb",
+    "tb-cpu": "14.53%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897169,
+    "cpu": 0.901518,
+    "memory": 3237008,
+    "tb": "mytb",
+    "tb-cpu": "12.57%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897174,
+    "cpu": 0.901665,
+    "memory": 3237132,
+    "tb": "mytb",
+    "tb-cpu": "13.51%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897179,
+    "cpu": 0.901781,
+    "memory": 3238248,
+    "tb": "mytb",
+    "tb-cpu": "13.99%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897184,
+    "cpu": 0.901938,
+    "memory": 3237752,
+    "tb": "mytb",
+    "tb-cpu": "12.41%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897189,
+    "cpu": 0.902071,
+    "memory": 3237628,
+    "tb": "mytb",
+    "tb-cpu": "12.16%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897194,
+    "cpu": 0.902212,
+    "memory": 3238248,
+    "tb": "mytb",
+    "tb-cpu": "14.87%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897199,
+    "cpu": 0.902367,
+    "memory": 3238248,
+    "tb": "mytb",
+    "tb-cpu": "14.63%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897204,
+    "cpu": 0.902499,
+    "memory": 3238620,
+    "tb": "mytb",
+    "tb-cpu": "15.53%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897209,
+    "cpu": 0.902643,
+    "memory": 3238620,
+    "tb": "mytb",
+    "tb-cpu": "14.63%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897214,
+    "cpu": 0.902772,
+    "memory": 3238372,
+    "tb": "mytb",
+    "tb-cpu": "15.02%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897219,
+    "cpu": 0.902891,
+    "memory": 3239364,
+    "tb": "mytb",
+    "tb-cpu": "11.93%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897224,
+    "cpu": 0.902984,
+    "memory": 3239504,
+    "tb": "mytb",
+    "tb-cpu": "12.63%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897229,
+    "cpu": 0.903141,
+    "memory": 3239380,
+    "tb": "mytb",
+    "tb-cpu": "14.89%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897234,
+    "cpu": 0.903292,
+    "memory": 3239628,
+    "tb": "mytb",
+    "tb-cpu": "13.65%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897239,
+    "cpu": 0.903438,
+    "memory": 3239504,
+    "tb": "mytb",
+    "tb-cpu": "10.13%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897244,
+    "cpu": 0.903571,
+    "memory": 3240000,
+    "tb": "mytb",
+    "tb-cpu": "12.50%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897249,
+    "cpu": 0.903695,
+    "memory": 3240124,
+    "tb": "mytb",
+    "tb-cpu": "13.44%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897254,
+    "cpu": 0.903846,
+    "memory": 3240744,
+    "tb": "mytb",
+    "tb-cpu": "13.42%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897259,
+    "cpu": 0.903979,
+    "memory": 3240124,
+    "tb": "mytb",
+    "tb-cpu": "14.96%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897264,
+    "cpu": 0.904128,
+    "memory": 3240992,
+    "tb": "mytb",
+    "tb-cpu": "10.85%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897269,
+    "cpu": 0.904293,
+    "memory": 3241116,
+    "tb": "mytb",
+    "tb-cpu": "13.37%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897274,
+    "cpu": 0.90447,
+    "memory": 3240868,
+    "tb": "mytb",
+    "tb-cpu": "11.16%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897279,
+    "cpu": 0.904594,
+    "memory": 3242108,
+    "tb": "mytb",
+    "tb-cpu": "13.84%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897284,
+    "cpu": 0.904754,
+    "memory": 3240992,
+    "tb": "mytb",
+    "tb-cpu": "13.83%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897289,
+    "cpu": 0.904855,
+    "memory": 3241736,
+    "tb": "mytb",
+    "tb-cpu": "16.13%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897294,
+    "cpu": 0.904996,
+    "memory": 3241488,
+    "tb": "mytb",
+    "tb-cpu": "14.02%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897299,
+    "cpu": 0.905139,
+    "memory": 3242232,
+    "tb": "mytb",
+    "tb-cpu": "15.85%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897304,
+    "cpu": 0.905288,
+    "memory": 3242232,
+    "tb": "mytb",
+    "tb-cpu": "9.67%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897309,
+    "cpu": 0.905434,
+    "memory": 3242480,
+    "tb": "mytb",
+    "tb-cpu": "13.71%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897314,
+    "cpu": 0.905583,
+    "memory": 3243100,
+    "tb": "mytb",
+    "tb-cpu": "13.97%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897319,
+    "cpu": 0.905749,
+    "memory": 3242944,
+    "tb": "mytb",
+    "tb-cpu": "12.05%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897324,
+    "cpu": 0.905867,
+    "memory": 3243472,
+    "tb": "mytb",
+    "tb-cpu": "15.04%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897329,
+    "cpu": 0.906021,
+    "memory": 3242976,
+    "tb": "mytb",
+    "tb-cpu": "15.93%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897334,
+    "cpu": 0.906148,
+    "memory": 3243628,
+    "tb": "mytb",
+    "tb-cpu": "14.15%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897339,
+    "cpu": 0.906291,
+    "memory": 3243844,
+    "tb": "mytb",
+    "tb-cpu": "12.13%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897344,
+    "cpu": 0.906439,
+    "memory": 3243968,
+    "tb": "mytb",
+    "tb-cpu": "12.41%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897349,
+    "cpu": 0.906597,
+    "memory": 3244340,
+    "tb": "mytb",
+    "tb-cpu": "14.39%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897354,
+    "cpu": 0.906748,
+    "memory": 3243844,
+    "tb": "mytb",
+    "tb-cpu": "16.08%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897359,
+    "cpu": 0.906871,
+    "memory": 3244340,
+    "tb": "mytb",
+    "tb-cpu": "14.14%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897364,
+    "cpu": 0.907008,
+    "memory": 3244712,
+    "tb": "mytb",
+    "tb-cpu": "12.90%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897369,
+    "cpu": 0.907135,
+    "memory": 3245456,
+    "tb": "mytb",
+    "tb-cpu": "12.75%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897374,
+    "cpu": 0.907278,
+    "memory": 3245208,
+    "tb": "mytb",
+    "tb-cpu": "12.61%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897379,
+    "cpu": 0.907404,
+    "memory": 3245208,
+    "tb": "mytb",
+    "tb-cpu": "9.83%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897384,
+    "cpu": 0.907533,
+    "memory": 3245736,
+    "tb": "mytb",
+    "tb-cpu": "13.78%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897389,
+    "cpu": 0.907662,
+    "memory": 3245828,
+    "tb": "mytb",
+    "tb-cpu": "14.79%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897394,
+    "cpu": 0.907802,
+    "memory": 3245952,
+    "tb": "mytb",
+    "tb-cpu": "11.71%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897399,
+    "cpu": 0.907959,
+    "memory": 3246324,
+    "tb": "mytb",
+    "tb-cpu": "13.80%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897404,
+    "cpu": 0.908108,
+    "memory": 3246076,
+    "tb": "mytb",
+    "tb-cpu": "15.57%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897409,
+    "cpu": 0.908248,
+    "memory": 3246944,
+    "tb": "mytb",
+    "tb-cpu": "12.54%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897414,
+    "cpu": 0.90838,
+    "memory": 3246820,
+    "tb": "mytb",
+    "tb-cpu": "11.79%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897419,
+    "cpu": 0.908528,
+    "memory": 3247192,
+    "tb": "mytb",
+    "tb-cpu": "14.77%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897424,
+    "cpu": 0.908677,
+    "memory": 3247688,
+    "tb": "mytb",
+    "tb-cpu": "13.97%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897429,
+    "cpu": 0.9088,
+    "memory": 3247440,
+    "tb": "mytb",
+    "tb-cpu": "16.35%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897434,
+    "cpu": 0.908935,
+    "memory": 3247440,
+    "tb": "mytb",
+    "tb-cpu": "14.30%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897439,
+    "cpu": 0.909064,
+    "memory": 3247936,
+    "tb": "mytb",
+    "tb-cpu": "12.97%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897444,
+    "cpu": 0.909193,
+    "memory": 3248308,
+    "tb": "mytb",
+    "tb-cpu": "12.49%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897449,
+    "cpu": 0.909327,
+    "memory": 3247936,
+    "tb": "mytb",
+    "tb-cpu": "12.39%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897454,
+    "cpu": 0.909487,
+    "memory": 3247812,
+    "tb": "mytb",
+    "tb-cpu": "13.50%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897459,
+    "cpu": 0.909652,
+    "memory": 3248308,
+    "tb": "mytb",
+    "tb-cpu": "10.81%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897464,
+    "cpu": 0.909773,
+    "memory": 3248340,
+    "tb": "mytb",
+    "tb-cpu": "14.45%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897469,
+    "cpu": 0.909904,
+    "memory": 3248308,
+    "tb": "mytb",
+    "tb-cpu": "15.28%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897474,
+    "cpu": 0.910044,
+    "memory": 3249424,
+    "tb": "mytb",
+    "tb-cpu": "15.68%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897479,
+    "cpu": 0.910201,
+    "memory": 3248928,
+    "tb": "mytb",
+    "tb-cpu": "13.65%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897484,
+    "cpu": 0.910301,
+    "memory": 3249300,
+    "tb": "mytb",
+    "tb-cpu": "12.96%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897489,
+    "cpu": 0.910474,
+    "memory": 3249052,
+    "tb": "mytb",
+    "tb-cpu": "14.44%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897494,
+    "cpu": 0.910628,
+    "memory": 3249672,
+    "tb": "mytb",
+    "tb-cpu": "14.46%",
+    "tb-mem": "614.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897499,
+    "cpu": 0.91079,
+    "memory": 3233800,
+    "tb": "mytb",
+    "tb-cpu": "15.78%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897504,
+    "cpu": 0.91095,
+    "memory": 3233676,
+    "tb": "mytb",
+    "tb-cpu": "14.53%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897509,
+    "cpu": 0.911104,
+    "memory": 3234172,
+    "tb": "mytb",
+    "tb-cpu": "11.49%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897514,
+    "cpu": 0.911218,
+    "memory": 3234048,
+    "tb": "mytb",
+    "tb-cpu": "13.99%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897519,
+    "cpu": 0.911383,
+    "memory": 3234420,
+    "tb": "mytb",
+    "tb-cpu": "15.59%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897524,
+    "cpu": 0.911534,
+    "memory": 3234420,
+    "tb": "mytb",
+    "tb-cpu": "13.62%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897529,
+    "cpu": 0.911638,
+    "memory": 3234916,
+    "tb": "mytb",
+    "tb-cpu": "14.38%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897534,
+    "cpu": 0.911783,
+    "memory": 3235040,
+    "tb": "mytb",
+    "tb-cpu": "16.37%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897539,
+    "cpu": 0.911923,
+    "memory": 3234544,
+    "tb": "mytb",
+    "tb-cpu": "15.65%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897544,
+    "cpu": 0.912071,
+    "memory": 3235288,
+    "tb": "mytb",
+    "tb-cpu": "13.98%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897549,
+    "cpu": 0.912208,
+    "memory": 3235536,
+    "tb": "mytb",
+    "tb-cpu": "12.00%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897554,
+    "cpu": 0.912314,
+    "memory": 3235908,
+    "tb": "mytb",
+    "tb-cpu": "14.78%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897559,
+    "cpu": 0.912451,
+    "memory": 3235536,
+    "tb": "mytb",
+    "tb-cpu": "12.59%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897564,
+    "cpu": 0.912596,
+    "memory": 3236280,
+    "tb": "mytb",
+    "tb-cpu": "15.91%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897569,
+    "cpu": 0.912736,
+    "memory": 3236156,
+    "tb": "mytb",
+    "tb-cpu": "10.50%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897574,
+    "cpu": 0.912898,
+    "memory": 3235908,
+    "tb": "mytb",
+    "tb-cpu": "12.19%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897579,
+    "cpu": 0.913018,
+    "memory": 3237024,
+    "tb": "mytb",
+    "tb-cpu": "16.53%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897584,
+    "cpu": 0.913188,
+    "memory": 3236652,
+    "tb": "mytb",
+    "tb-cpu": "11.32%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897589,
+    "cpu": 0.913306,
+    "memory": 3237396,
+    "tb": "mytb",
+    "tb-cpu": "15.47%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897594,
+    "cpu": 0.913468,
+    "memory": 3237676,
+    "tb": "mytb",
+    "tb-cpu": "14.55%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897599,
+    "cpu": 0.913605,
+    "memory": 3238016,
+    "tb": "mytb",
+    "tb-cpu": "12.81%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897604,
+    "cpu": 0.913725,
+    "memory": 3237644,
+    "tb": "mytb",
+    "tb-cpu": "13.62%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897609,
+    "cpu": 0.913895,
+    "memory": 3238140,
+    "tb": "mytb",
+    "tb-cpu": "14.34%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897614,
+    "cpu": 0.914011,
+    "memory": 3238636,
+    "tb": "mytb",
+    "tb-cpu": "12.16%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897619,
+    "cpu": 0.91412,
+    "memory": 3238264,
+    "tb": "mytb",
+    "tb-cpu": "12.03%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897624,
+    "cpu": 0.914254,
+    "memory": 3238512,
+    "tb": "mytb",
+    "tb-cpu": "14.08%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897629,
+    "cpu": 0.914379,
+    "memory": 3239008,
+    "tb": "mytb",
+    "tb-cpu": "9.95%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897634,
+    "cpu": 0.914533,
+    "memory": 3238852,
+    "tb": "mytb",
+    "tb-cpu": "10.13%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897639,
+    "cpu": 0.914686,
+    "memory": 3239348,
+    "tb": "mytb",
+    "tb-cpu": "13.59%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897644,
+    "cpu": 0.914837,
+    "memory": 3239100,
+    "tb": "mytb",
+    "tb-cpu": "11.80%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897649,
+    "cpu": 0.914982,
+    "memory": 3239596,
+    "tb": "mytb",
+    "tb-cpu": "13.75%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897654,
+    "cpu": 0.915155,
+    "memory": 3239812,
+    "tb": "mytb",
+    "tb-cpu": "9.74%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897659,
+    "cpu": 0.915272,
+    "memory": 3240216,
+    "tb": "mytb",
+    "tb-cpu": "13.01%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897664,
+    "cpu": 0.915405,
+    "memory": 3239876,
+    "tb": "mytb",
+    "tb-cpu": "12.96%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897669,
+    "cpu": 0.915528,
+    "memory": 3240140,
+    "tb": "mytb",
+    "tb-cpu": "14.92%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897674,
+    "cpu": 0.915676,
+    "memory": 3240528,
+    "tb": "mytb",
+    "tb-cpu": "16.21%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897679,
+    "cpu": 0.91579,
+    "memory": 3240684,
+    "tb": "mytb",
+    "tb-cpu": "13.40%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897684,
+    "cpu": 0.915952,
+    "memory": 3241272,
+    "tb": "mytb",
+    "tb-cpu": "11.48%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897689,
+    "cpu": 0.916057,
+    "memory": 3240900,
+    "tb": "mytb",
+    "tb-cpu": "14.79%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897694,
+    "cpu": 0.916211,
+    "memory": 3241148,
+    "tb": "mytb",
+    "tb-cpu": "13.95%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897699,
+    "cpu": 0.916347,
+    "memory": 3241396,
+    "tb": "mytb",
+    "tb-cpu": "16.24%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897704,
+    "cpu": 0.916486,
+    "memory": 3241644,
+    "tb": "mytb",
+    "tb-cpu": "12.56%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897709,
+    "cpu": 0.916642,
+    "memory": 3242264,
+    "tb": "mytb",
+    "tb-cpu": "11.04%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897714,
+    "cpu": 0.916751,
+    "memory": 3242264,
+    "tb": "mytb",
+    "tb-cpu": "17.05%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897719,
+    "cpu": 0.916898,
+    "memory": 3242636,
+    "tb": "mytb",
+    "tb-cpu": "14.36%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897724,
+    "cpu": 0.917065,
+    "memory": 3242884,
+    "tb": "mytb",
+    "tb-cpu": "13.16%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897729,
+    "cpu": 0.917205,
+    "memory": 3243256,
+    "tb": "mytb",
+    "tb-cpu": "14.83%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897734,
+    "cpu": 0.917363,
+    "memory": 3243256,
+    "tb": "mytb",
+    "tb-cpu": "14.92%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897739,
+    "cpu": 0.917471,
+    "memory": 3243256,
+    "tb": "mytb",
+    "tb-cpu": "16.24%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897744,
+    "cpu": 0.91761,
+    "memory": 3243504,
+    "tb": "mytb",
+    "tb-cpu": "10.71%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897749,
+    "cpu": 0.917724,
+    "memory": 3243132,
+    "tb": "mytb",
+    "tb-cpu": "15.55%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897754,
+    "cpu": 0.917849,
+    "memory": 3244124,
+    "tb": "mytb",
+    "tb-cpu": "11.29%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897759,
+    "cpu": 0.917971,
+    "memory": 3244016,
+    "tb": "mytb",
+    "tb-cpu": "14.52%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897764,
+    "cpu": 0.918066,
+    "memory": 3243892,
+    "tb": "mytb",
+    "tb-cpu": "11.77%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897769,
+    "cpu": 0.918224,
+    "memory": 3244388,
+    "tb": "mytb",
+    "tb-cpu": "14.61%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897774,
+    "cpu": 0.918344,
+    "memory": 3244296,
+    "tb": "mytb",
+    "tb-cpu": "14.48%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897779,
+    "cpu": 0.918481,
+    "memory": 3244636,
+    "tb": "mytb",
+    "tb-cpu": "13.31%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897784,
+    "cpu": 0.918606,
+    "memory": 3245008,
+    "tb": "mytb",
+    "tb-cpu": "13.94%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897789,
+    "cpu": 0.918761,
+    "memory": 3245256,
+    "tb": "mytb",
+    "tb-cpu": "11.93%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897794,
+    "cpu": 0.918875,
+    "memory": 3245132,
+    "tb": "mytb",
+    "tb-cpu": "12.79%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897799,
+    "cpu": 0.919011,
+    "memory": 3245876,
+    "tb": "mytb",
+    "tb-cpu": "14.57%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897804,
+    "cpu": 0.919145,
+    "memory": 3245380,
+    "tb": "mytb",
+    "tb-cpu": "13.23%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897809,
+    "cpu": 0.919278,
+    "memory": 3245256,
+    "tb": "mytb",
+    "tb-cpu": "12.77%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897814,
+    "cpu": 0.919406,
+    "memory": 3245876,
+    "tb": "mytb",
+    "tb-cpu": "14.22%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897819,
+    "cpu": 0.919548,
+    "memory": 3246124,
+    "tb": "mytb",
+    "tb-cpu": "16.19%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897824,
+    "cpu": 0.919673,
+    "memory": 3246496,
+    "tb": "mytb",
+    "tb-cpu": "13.28%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897829,
+    "cpu": 0.919829,
+    "memory": 3247084,
+    "tb": "mytb",
+    "tb-cpu": "16.20%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897834,
+    "cpu": 0.919948,
+    "memory": 3246744,
+    "tb": "mytb",
+    "tb-cpu": "12.56%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897839,
+    "cpu": 0.920051,
+    "memory": 3248496,
+    "tb": "mytb",
+    "tb-cpu": "13.64%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897844,
+    "cpu": 0.920165,
+    "memory": 3247116,
+    "tb": "mytb",
+    "tb-cpu": "15.65%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897849,
+    "cpu": 0.920328,
+    "memory": 3247364,
+    "tb": "mytb",
+    "tb-cpu": "15.96%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897854,
+    "cpu": 0.920439,
+    "memory": 3247612,
+    "tb": "mytb",
+    "tb-cpu": "15.72%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897859,
+    "cpu": 0.920587,
+    "memory": 3247860,
+    "tb": "mytb",
+    "tb-cpu": "10.20%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897864,
+    "cpu": 0.920677,
+    "memory": 3247860,
+    "tb": "mytb",
+    "tb-cpu": "13.58%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897869,
+    "cpu": 0.920805,
+    "memory": 3248356,
+    "tb": "mytb",
+    "tb-cpu": "14.50%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897874,
+    "cpu": 0.920941,
+    "memory": 3248604,
+    "tb": "mytb",
+    "tb-cpu": "13.65%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897879,
+    "cpu": 0.92106,
+    "memory": 3248356,
+    "tb": "mytb",
+    "tb-cpu": "15.65%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897884,
+    "cpu": 0.92121,
+    "memory": 3248852,
+    "tb": "mytb",
+    "tb-cpu": "11.92%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897889,
+    "cpu": 0.921351,
+    "memory": 3249348,
+    "tb": "mytb",
+    "tb-cpu": "11.16%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897894,
+    "cpu": 0.921476,
+    "memory": 3248976,
+    "tb": "mytb",
+    "tb-cpu": "12.85%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897899,
+    "cpu": 0.921581,
+    "memory": 3249472,
+    "tb": "mytb",
+    "tb-cpu": "14.10%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897904,
+    "cpu": 0.92174,
+    "memory": 3249472,
+    "tb": "mytb",
+    "tb-cpu": "15.85%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897909,
+    "cpu": 0.921884,
+    "memory": 3249408,
+    "tb": "mytb",
+    "tb-cpu": "16.73%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897914,
+    "cpu": 0.922011,
+    "memory": 3249656,
+    "tb": "mytb",
+    "tb-cpu": "15.00%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897919,
+    "cpu": 0.922181,
+    "memory": 3250028,
+    "tb": "mytb",
+    "tb-cpu": "15.87%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897924,
+    "cpu": 0.922328,
+    "memory": 3250276,
+    "tb": "mytb",
+    "tb-cpu": "13.88%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897929,
+    "cpu": 0.922483,
+    "memory": 3250524,
+    "tb": "mytb",
+    "tb-cpu": "14.47%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897934,
+    "cpu": 0.92261,
+    "memory": 3250928,
+    "tb": "mytb",
+    "tb-cpu": "12.46%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897939,
+    "cpu": 0.922729,
+    "memory": 3250804,
+    "tb": "mytb",
+    "tb-cpu": "13.37%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897944,
+    "cpu": 0.922873,
+    "memory": 3251052,
+    "tb": "mytb",
+    "tb-cpu": "13.88%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897949,
+    "cpu": 0.923001,
+    "memory": 3251176,
+    "tb": "mytb",
+    "tb-cpu": "15.85%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897954,
+    "cpu": 0.923145,
+    "memory": 3250804,
+    "tb": "mytb",
+    "tb-cpu": "13.31%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897959,
+    "cpu": 0.923264,
+    "memory": 3251548,
+    "tb": "mytb",
+    "tb-cpu": "13.19%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897964,
+    "cpu": 0.92338,
+    "memory": 3252200,
+    "tb": "mytb",
+    "tb-cpu": "14.19%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897969,
+    "cpu": 0.923513,
+    "memory": 3252664,
+    "tb": "mytb",
+    "tb-cpu": "15.32%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897974,
+    "cpu": 0.923649,
+    "memory": 3252292,
+    "tb": "mytb",
+    "tb-cpu": "12.50%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897979,
+    "cpu": 0.923779,
+    "memory": 3252540,
+    "tb": "mytb",
+    "tb-cpu": "13.19%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897984,
+    "cpu": 0.92392,
+    "memory": 3252540,
+    "tb": "mytb",
+    "tb-cpu": "11.59%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897989,
+    "cpu": 0.924049,
+    "memory": 3252912,
+    "tb": "mytb",
+    "tb-cpu": "11.96%",
+    "tb-mem": "614.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897994,
+    "cpu": 0.92416,
+    "memory": 3253284,
+    "tb": "mytb",
+    "tb-cpu": "10.60%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574897999,
+    "cpu": 0.924287,
+    "memory": 3253160,
+    "tb": "mytb",
+    "tb-cpu": "16.76%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898004,
+    "cpu": 0.924437,
+    "memory": 3252664,
+    "tb": "mytb",
+    "tb-cpu": "14.07%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898009,
+    "cpu": 0.924591,
+    "memory": 3252664,
+    "tb": "mytb",
+    "tb-cpu": "13.04%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898014,
+    "cpu": 0.924727,
+    "memory": 3252912,
+    "tb": "mytb",
+    "tb-cpu": "11.86%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898019,
+    "cpu": 0.924857,
+    "memory": 3253036,
+    "tb": "mytb",
+    "tb-cpu": "12.76%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898024,
+    "cpu": 0.925001,
+    "memory": 3252416,
+    "tb": "mytb",
+    "tb-cpu": "11.71%",
+    "tb-mem": "612.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898029,
+    "cpu": 0.92515,
+    "memory": 3251920,
+    "tb": "mytb",
+    "tb-cpu": "16.51%",
+    "tb-mem": "612MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898034,
+    "cpu": 0.925278,
+    "memory": 3251580,
+    "tb": "mytb",
+    "tb-cpu": "12.18%",
+    "tb-mem": "611.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898039,
+    "cpu": 0.925427,
+    "memory": 3251332,
+    "tb": "mytb",
+    "tb-cpu": "13.46%",
+    "tb-mem": "611.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898044,
+    "cpu": 0.925601,
+    "memory": 3253440,
+    "tb": "mytb",
+    "tb-cpu": "14.82%",
+    "tb-mem": "613.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898049,
+    "cpu": 0.925756,
+    "memory": 3253284,
+    "tb": "mytb",
+    "tb-cpu": "13.14%",
+    "tb-mem": "612.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898054,
+    "cpu": 0.925889,
+    "memory": 3253812,
+    "tb": "mytb",
+    "tb-cpu": "16.51%",
+    "tb-mem": "613.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898059,
+    "cpu": 0.926033,
+    "memory": 3253176,
+    "tb": "mytb",
+    "tb-cpu": "20.44%",
+    "tb-mem": "612.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898064,
+    "cpu": 0.926182,
+    "memory": 3254168,
+    "tb": "mytb",
+    "tb-cpu": "11.57%",
+    "tb-mem": "613.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898069,
+    "cpu": 0.926326,
+    "memory": 3254168,
+    "tb": "mytb",
+    "tb-cpu": "13.24%",
+    "tb-mem": "612.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898074,
+    "cpu": 0.926505,
+    "memory": 3253796,
+    "tb": "mytb",
+    "tb-cpu": "12.52%",
+    "tb-mem": "613MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898079,
+    "cpu": 0.926652,
+    "memory": 3254360,
+    "tb": "mytb",
+    "tb-cpu": "11.88%",
+    "tb-mem": "613.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898084,
+    "cpu": 0.926776,
+    "memory": 3254764,
+    "tb": "mytb",
+    "tb-cpu": "13.51%",
+    "tb-mem": "613.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898089,
+    "cpu": 0.926931,
+    "memory": 3255136,
+    "tb": "mytb",
+    "tb-cpu": "13.51%",
+    "tb-mem": "613.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898094,
+    "cpu": 0.927061,
+    "memory": 3254888,
+    "tb": "mytb",
+    "tb-cpu": "14.05%",
+    "tb-mem": "613.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898099,
+    "cpu": 0.927213,
+    "memory": 3255540,
+    "tb": "mytb",
+    "tb-cpu": "15.98%",
+    "tb-mem": "612.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898104,
+    "cpu": 0.927365,
+    "memory": 3255168,
+    "tb": "mytb",
+    "tb-cpu": "13.53%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898109,
+    "cpu": 0.927514,
+    "memory": 3256284,
+    "tb": "mytb",
+    "tb-cpu": "14.43%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898114,
+    "cpu": 0.927635,
+    "memory": 3255912,
+    "tb": "mytb",
+    "tb-cpu": "10.63%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898119,
+    "cpu": 0.927781,
+    "memory": 3239420,
+    "tb": "mytb",
+    "tb-cpu": "14.23%",
+    "tb-mem": "613.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898124,
+    "cpu": 0.927883,
+    "memory": 3240412,
+    "tb": "mytb",
+    "tb-cpu": "10.56%",
+    "tb-mem": "613.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898129,
+    "cpu": 0.928024,
+    "memory": 3238844,
+    "tb": "mytb",
+    "tb-cpu": "11.39%",
+    "tb-mem": "613.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898134,
+    "cpu": 0.928173,
+    "memory": 3240688,
+    "tb": "mytb",
+    "tb-cpu": "14.03%",
+    "tb-mem": "613.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898139,
+    "cpu": 0.92833,
+    "memory": 3240812,
+    "tb": "mytb",
+    "tb-cpu": "10.73%",
+    "tb-mem": "613.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898144,
+    "cpu": 0.928468,
+    "memory": 3240920,
+    "tb": "mytb",
+    "tb-cpu": "11.87%",
+    "tb-mem": "613.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898149,
+    "cpu": 0.928592,
+    "memory": 3241168,
+    "tb": "mytb",
+    "tb-cpu": "14.14%",
+    "tb-mem": "613.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898154,
+    "cpu": 0.928702,
+    "memory": 3241300,
+    "tb": "mytb",
+    "tb-cpu": "11.63%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898159,
+    "cpu": 0.928848,
+    "memory": 3242044,
+    "tb": "mytb",
+    "tb-cpu": "16.87%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898164,
+    "cpu": 0.928959,
+    "memory": 3241672,
+    "tb": "mytb",
+    "tb-cpu": "12.85%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898169,
+    "cpu": 0.929041,
+    "memory": 3242416,
+    "tb": "mytb",
+    "tb-cpu": "14.14%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898174,
+    "cpu": 0.929165,
+    "memory": 3243284,
+    "tb": "mytb",
+    "tb-cpu": "11.53%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898179,
+    "cpu": 0.929319,
+    "memory": 3243160,
+    "tb": "mytb",
+    "tb-cpu": "15.51%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898184,
+    "cpu": 0.929465,
+    "memory": 3243656,
+    "tb": "mytb",
+    "tb-cpu": "15.98%",
+    "tb-mem": "614.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898189,
+    "cpu": 0.929603,
+    "memory": 3243656,
+    "tb": "mytb",
+    "tb-cpu": "15.64%",
+    "tb-mem": "614.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898194,
+    "cpu": 0.929749,
+    "memory": 3244152,
+    "tb": "mytb",
+    "tb-cpu": "12.13%",
+    "tb-mem": "614.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898199,
+    "cpu": 0.929857,
+    "memory": 3244120,
+    "tb": "mytb",
+    "tb-cpu": "12.10%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898204,
+    "cpu": 0.929981,
+    "memory": 3244400,
+    "tb": "mytb",
+    "tb-cpu": "13.55%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898209,
+    "cpu": 0.930116,
+    "memory": 3245392,
+    "tb": "mytb",
+    "tb-cpu": "12.99%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898214,
+    "cpu": 0.930256,
+    "memory": 3245144,
+    "tb": "mytb",
+    "tb-cpu": "11.32%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898219,
+    "cpu": 0.93041,
+    "memory": 3245268,
+    "tb": "mytb",
+    "tb-cpu": "14.86%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898224,
+    "cpu": 0.930545,
+    "memory": 3245144,
+    "tb": "mytb",
+    "tb-cpu": "14.69%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898229,
+    "cpu": 0.930664,
+    "memory": 3245764,
+    "tb": "mytb",
+    "tb-cpu": "10.64%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898234,
+    "cpu": 0.930818,
+    "memory": 3245392,
+    "tb": "mytb",
+    "tb-cpu": "15.37%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898239,
+    "cpu": 0.930902,
+    "memory": 3246012,
+    "tb": "mytb",
+    "tb-cpu": "14.50%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898244,
+    "cpu": 0.931001,
+    "memory": 3245756,
+    "tb": "mytb",
+    "tb-cpu": "13.97%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898249,
+    "cpu": 0.931139,
+    "memory": 3246500,
+    "tb": "mytb",
+    "tb-cpu": "14.22%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898254,
+    "cpu": 0.931238,
+    "memory": 3246004,
+    "tb": "mytb",
+    "tb-cpu": "15.30%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898259,
+    "cpu": 0.931392,
+    "memory": 3246996,
+    "tb": "mytb",
+    "tb-cpu": "12.50%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898264,
+    "cpu": 0.931513,
+    "memory": 3246376,
+    "tb": "mytb",
+    "tb-cpu": "13.38%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898269,
+    "cpu": 0.931642,
+    "memory": 3246996,
+    "tb": "mytb",
+    "tb-cpu": "14.76%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898274,
+    "cpu": 0.931752,
+    "memory": 3247368,
+    "tb": "mytb",
+    "tb-cpu": "13.09%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898279,
+    "cpu": 0.931914,
+    "memory": 3247616,
+    "tb": "mytb",
+    "tb-cpu": "14.20%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898284,
+    "cpu": 0.932057,
+    "memory": 3246872,
+    "tb": "mytb",
+    "tb-cpu": "12.00%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898289,
+    "cpu": 0.932195,
+    "memory": 3247988,
+    "tb": "mytb",
+    "tb-cpu": "14.31%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898294,
+    "cpu": 0.93233,
+    "memory": 3248112,
+    "tb": "mytb",
+    "tb-cpu": "14.44%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898299,
+    "cpu": 0.932459,
+    "memory": 3248576,
+    "tb": "mytb",
+    "tb-cpu": "12.63%",
+    "tb-mem": "614.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898304,
+    "cpu": 0.932574,
+    "memory": 3248360,
+    "tb": "mytb",
+    "tb-cpu": "13.73%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898309,
+    "cpu": 0.932737,
+    "memory": 3248484,
+    "tb": "mytb",
+    "tb-cpu": "12.71%",
+    "tb-mem": "614.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898314,
+    "cpu": 0.932863,
+    "memory": 3248732,
+    "tb": "mytb",
+    "tb-cpu": "11.25%",
+    "tb-mem": "615MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898319,
+    "cpu": 0.932995,
+    "memory": 3249972,
+    "tb": "mytb",
+    "tb-cpu": "15.96%",
+    "tb-mem": "614.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898324,
+    "cpu": 0.93311,
+    "memory": 3250476,
+    "tb": "mytb",
+    "tb-cpu": "13.58%",
+    "tb-mem": "615MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898329,
+    "cpu": 0.933245,
+    "memory": 3250352,
+    "tb": "mytb",
+    "tb-cpu": "11.20%",
+    "tb-mem": "614.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898334,
+    "cpu": 0.933376,
+    "memory": 3250352,
+    "tb": "mytb",
+    "tb-cpu": "14.49%",
+    "tb-mem": "614.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898339,
+    "cpu": 0.933528,
+    "memory": 3250592,
+    "tb": "mytb",
+    "tb-cpu": "13.93%",
+    "tb-mem": "615MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898344,
+    "cpu": 0.933626,
+    "memory": 3250592,
+    "tb": "mytb",
+    "tb-cpu": "15.18%",
+    "tb-mem": "615.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898349,
+    "cpu": 0.933764,
+    "memory": 3250592,
+    "tb": "mytb",
+    "tb-cpu": "14.75%",
+    "tb-mem": "615.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898354,
+    "cpu": 0.933907,
+    "memory": 3251468,
+    "tb": "mytb",
+    "tb-cpu": "12.43%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898359,
+    "cpu": 0.934019,
+    "memory": 3251344,
+    "tb": "mytb",
+    "tb-cpu": "11.60%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898364,
+    "cpu": 0.934127,
+    "memory": 3251592,
+    "tb": "mytb",
+    "tb-cpu": "14.79%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898369,
+    "cpu": 0.934251,
+    "memory": 3251964,
+    "tb": "mytb",
+    "tb-cpu": "8.80%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898374,
+    "cpu": 0.934374,
+    "memory": 3252460,
+    "tb": "mytb",
+    "tb-cpu": "12.15%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898379,
+    "cpu": 0.934511,
+    "memory": 3252832,
+    "tb": "mytb",
+    "tb-cpu": "10.63%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898384,
+    "cpu": 0.934629,
+    "memory": 3252584,
+    "tb": "mytb",
+    "tb-cpu": "13.64%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898389,
+    "cpu": 0.934803,
+    "memory": 3253468,
+    "tb": "mytb",
+    "tb-cpu": "14.81%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898394,
+    "cpu": 0.934934,
+    "memory": 3253096,
+    "tb": "mytb",
+    "tb-cpu": "11.54%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898399,
+    "cpu": 0.935063,
+    "memory": 3253220,
+    "tb": "mytb",
+    "tb-cpu": "13.13%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898404,
+    "cpu": 0.935217,
+    "memory": 3253592,
+    "tb": "mytb",
+    "tb-cpu": "13.17%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898409,
+    "cpu": 0.935387,
+    "memory": 3253840,
+    "tb": "mytb",
+    "tb-cpu": "12.99%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898414,
+    "cpu": 0.935524,
+    "memory": 3253964,
+    "tb": "mytb",
+    "tb-cpu": "14.93%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898419,
+    "cpu": 0.935672,
+    "memory": 3253840,
+    "tb": "mytb",
+    "tb-cpu": "15.36%",
+    "tb-mem": "615.4MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898424,
+    "cpu": 0.935839,
+    "memory": 3254460,
+    "tb": "mytb",
+    "tb-cpu": "17.12%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898429,
+    "cpu": 0.93599,
+    "memory": 3254212,
+    "tb": "mytb",
+    "tb-cpu": "12.86%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898434,
+    "cpu": 0.936114,
+    "memory": 3254336,
+    "tb": "mytb",
+    "tb-cpu": "12.20%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898439,
+    "cpu": 0.936265,
+    "memory": 3254748,
+    "tb": "mytb",
+    "tb-cpu": "14.28%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898444,
+    "cpu": 0.936402,
+    "memory": 3255280,
+    "tb": "mytb",
+    "tb-cpu": "16.36%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898449,
+    "cpu": 0.936525,
+    "memory": 3255032,
+    "tb": "mytb",
+    "tb-cpu": "9.86%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898454,
+    "cpu": 0.936615,
+    "memory": 3255064,
+    "tb": "mytb",
+    "tb-cpu": "13.55%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898459,
+    "cpu": 0.936768,
+    "memory": 3255816,
+    "tb": "mytb",
+    "tb-cpu": "13.55%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898464,
+    "cpu": 0.936916,
+    "memory": 3255196,
+    "tb": "mytb",
+    "tb-cpu": "12.15%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898469,
+    "cpu": 0.937064,
+    "memory": 3256148,
+    "tb": "mytb",
+    "tb-cpu": "15.94%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898474,
+    "cpu": 0.937215,
+    "memory": 3255768,
+    "tb": "mytb",
+    "tb-cpu": "14.93%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898479,
+    "cpu": 0.937374,
+    "memory": 3256016,
+    "tb": "mytb",
+    "tb-cpu": "15.98%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898484,
+    "cpu": 0.937522,
+    "memory": 3255884,
+    "tb": "mytb",
+    "tb-cpu": "11.01%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898489,
+    "cpu": 0.937633,
+    "memory": 3256380,
+    "tb": "mytb",
+    "tb-cpu": "12.40%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898494,
+    "cpu": 0.937753,
+    "memory": 3256628,
+    "tb": "mytb",
+    "tb-cpu": "14.21%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898499,
+    "cpu": 0.937876,
+    "memory": 3256752,
+    "tb": "mytb",
+    "tb-cpu": "17.98%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898504,
+    "cpu": 0.937994,
+    "memory": 3256876,
+    "tb": "mytb",
+    "tb-cpu": "12.52%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898509,
+    "cpu": 0.938144,
+    "memory": 3257372,
+    "tb": "mytb",
+    "tb-cpu": "12.25%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898514,
+    "cpu": 0.938248,
+    "memory": 3257496,
+    "tb": "mytb",
+    "tb-cpu": "11.56%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898519,
+    "cpu": 0.938379,
+    "memory": 3257620,
+    "tb": "mytb",
+    "tb-cpu": "14.10%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898524,
+    "cpu": 0.938535,
+    "memory": 3257868,
+    "tb": "mytb",
+    "tb-cpu": "16.06%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898529,
+    "cpu": 0.938689,
+    "memory": 3258240,
+    "tb": "mytb",
+    "tb-cpu": "12.54%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898534,
+    "cpu": 0.938823,
+    "memory": 3257744,
+    "tb": "mytb",
+    "tb-cpu": "11.59%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898539,
+    "cpu": 0.938954,
+    "memory": 3258488,
+    "tb": "mytb",
+    "tb-cpu": "11.04%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898544,
+    "cpu": 0.939091,
+    "memory": 3258752,
+    "tb": "mytb",
+    "tb-cpu": "13.37%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898549,
+    "cpu": 0.939225,
+    "memory": 3259124,
+    "tb": "mytb",
+    "tb-cpu": "11.75%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898554,
+    "cpu": 0.939356,
+    "memory": 3259124,
+    "tb": "mytb",
+    "tb-cpu": "13.28%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898559,
+    "cpu": 0.939462,
+    "memory": 3258628,
+    "tb": "mytb",
+    "tb-cpu": "13.56%",
+    "tb-mem": "615.5MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898564,
+    "cpu": 0.939607,
+    "memory": 3259248,
+    "tb": "mytb",
+    "tb-cpu": "14.05%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898569,
+    "cpu": 0.939755,
+    "memory": 3260116,
+    "tb": "mytb",
+    "tb-cpu": "13.95%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898574,
+    "cpu": 0.939853,
+    "memory": 3259744,
+    "tb": "mytb",
+    "tb-cpu": "13.06%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898579,
+    "cpu": 0.939997,
+    "memory": 3259992,
+    "tb": "mytb",
+    "tb-cpu": "12.04%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898584,
+    "cpu": 0.940162,
+    "memory": 3260116,
+    "tb": "mytb",
+    "tb-cpu": "14.37%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898589,
+    "cpu": 0.940307,
+    "memory": 3260480,
+    "tb": "mytb",
+    "tb-cpu": "13.17%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898594,
+    "cpu": 0.940468,
+    "memory": 3261100,
+    "tb": "mytb",
+    "tb-cpu": "12.88%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898599,
+    "cpu": 0.94058,
+    "memory": 3260952,
+    "tb": "mytb",
+    "tb-cpu": "18.73%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898604,
+    "cpu": 0.940725,
+    "memory": 3261604,
+    "tb": "mytb",
+    "tb-cpu": "16.58%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898609,
+    "cpu": 0.94085,
+    "memory": 3261480,
+    "tb": "mytb",
+    "tb-cpu": "11.83%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898614,
+    "cpu": 0.940947,
+    "memory": 3261728,
+    "tb": "mytb",
+    "tb-cpu": "11.97%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898619,
+    "cpu": 0.941076,
+    "memory": 3262752,
+    "tb": "mytb",
+    "tb-cpu": "15.12%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898624,
+    "cpu": 0.941209,
+    "memory": 3262380,
+    "tb": "mytb",
+    "tb-cpu": "14.00%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898629,
+    "cpu": 0.941357,
+    "memory": 3262132,
+    "tb": "mytb",
+    "tb-cpu": "13.62%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898634,
+    "cpu": 0.941477,
+    "memory": 3262620,
+    "tb": "mytb",
+    "tb-cpu": "11.98%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898639,
+    "cpu": 0.941613,
+    "memory": 3262372,
+    "tb": "mytb",
+    "tb-cpu": "13.96%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898644,
+    "cpu": 0.941758,
+    "memory": 3263116,
+    "tb": "mytb",
+    "tb-cpu": "12.74%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898649,
+    "cpu": 0.94193,
+    "memory": 3263372,
+    "tb": "mytb",
+    "tb-cpu": "12.33%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898654,
+    "cpu": 0.942039,
+    "memory": 3264496,
+    "tb": "mytb",
+    "tb-cpu": "15.24%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898659,
+    "cpu": 0.942192,
+    "memory": 3263364,
+    "tb": "mytb",
+    "tb-cpu": "11.04%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898664,
+    "cpu": 0.942348,
+    "memory": 3263116,
+    "tb": "mytb",
+    "tb-cpu": "11.54%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898669,
+    "cpu": 0.942498,
+    "memory": 3263984,
+    "tb": "mytb",
+    "tb-cpu": "16.79%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898674,
+    "cpu": 0.94264,
+    "memory": 3263984,
+    "tb": "mytb",
+    "tb-cpu": "12.33%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898679,
+    "cpu": 0.942746,
+    "memory": 3264480,
+    "tb": "mytb",
+    "tb-cpu": "14.99%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898684,
+    "cpu": 0.942898,
+    "memory": 3264604,
+    "tb": "mytb",
+    "tb-cpu": "13.76%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898689,
+    "cpu": 0.94304,
+    "memory": 3264356,
+    "tb": "mytb",
+    "tb-cpu": "13.46%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898694,
+    "cpu": 0.943179,
+    "memory": 3264232,
+    "tb": "mytb",
+    "tb-cpu": "11.57%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898699,
+    "cpu": 0.943316,
+    "memory": 3264480,
+    "tb": "mytb",
+    "tb-cpu": "13.43%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898704,
+    "cpu": 0.943468,
+    "memory": 3264604,
+    "tb": "mytb",
+    "tb-cpu": "13.70%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898709,
+    "cpu": 0.943591,
+    "memory": 3265596,
+    "tb": "mytb",
+    "tb-cpu": "16.97%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898714,
+    "cpu": 0.943711,
+    "memory": 3265480,
+    "tb": "mytb",
+    "tb-cpu": "14.49%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898719,
+    "cpu": 0.943849,
+    "memory": 3265728,
+    "tb": "mytb",
+    "tb-cpu": "18.74%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898724,
+    "cpu": 0.94398,
+    "memory": 3266472,
+    "tb": "mytb",
+    "tb-cpu": "10.93%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898729,
+    "cpu": 0.944105,
+    "memory": 3266844,
+    "tb": "mytb",
+    "tb-cpu": "13.17%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898734,
+    "cpu": 0.944255,
+    "memory": 3266340,
+    "tb": "mytb",
+    "tb-cpu": "14.53%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898739,
+    "cpu": 0.944356,
+    "memory": 3250964,
+    "tb": "mytb",
+    "tb-cpu": "13.33%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898744,
+    "cpu": 0.944466,
+    "memory": 3250840,
+    "tb": "mytb",
+    "tb-cpu": "15.77%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898749,
+    "cpu": 0.944622,
+    "memory": 3250840,
+    "tb": "mytb",
+    "tb-cpu": "16.04%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898754,
+    "cpu": 0.944774,
+    "memory": 3250964,
+    "tb": "mytb",
+    "tb-cpu": "12.24%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898759,
+    "cpu": 0.944913,
+    "memory": 3251212,
+    "tb": "mytb",
+    "tb-cpu": "13.10%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898764,
+    "cpu": 0.944997,
+    "memory": 3251584,
+    "tb": "mytb",
+    "tb-cpu": "10.76%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898769,
+    "cpu": 0.945116,
+    "memory": 3251088,
+    "tb": "mytb",
+    "tb-cpu": "11.39%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898774,
+    "cpu": 0.945241,
+    "memory": 3251708,
+    "tb": "mytb",
+    "tb-cpu": "11.85%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898779,
+    "cpu": 0.945391,
+    "memory": 3251584,
+    "tb": "mytb",
+    "tb-cpu": "11.71%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898784,
+    "cpu": 0.945513,
+    "memory": 3252204,
+    "tb": "mytb",
+    "tb-cpu": "12.43%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898789,
+    "cpu": 0.945652,
+    "memory": 3252576,
+    "tb": "mytb",
+    "tb-cpu": "9.14%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898794,
+    "cpu": 0.945785,
+    "memory": 3252576,
+    "tb": "mytb",
+    "tb-cpu": "14.83%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898799,
+    "cpu": 0.945888,
+    "memory": 3252948,
+    "tb": "mytb",
+    "tb-cpu": "14.76%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898804,
+    "cpu": 0.946052,
+    "memory": 3252700,
+    "tb": "mytb",
+    "tb-cpu": "13.47%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898809,
+    "cpu": 0.946171,
+    "memory": 3252948,
+    "tb": "mytb",
+    "tb-cpu": "12.22%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898814,
+    "cpu": 0.946307,
+    "memory": 3252576,
+    "tb": "mytb",
+    "tb-cpu": "13.36%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898819,
+    "cpu": 0.946451,
+    "memory": 3253196,
+    "tb": "mytb",
+    "tb-cpu": "13.40%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898824,
+    "cpu": 0.946587,
+    "memory": 3253444,
+    "tb": "mytb",
+    "tb-cpu": "14.87%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898829,
+    "cpu": 0.94672,
+    "memory": 3253824,
+    "tb": "mytb",
+    "tb-cpu": "11.78%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898834,
+    "cpu": 0.946826,
+    "memory": 3254196,
+    "tb": "mytb",
+    "tb-cpu": "15.66%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898839,
+    "cpu": 0.947006,
+    "memory": 3253452,
+    "tb": "mytb",
+    "tb-cpu": "15.07%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898844,
+    "cpu": 0.947109,
+    "memory": 3254196,
+    "tb": "mytb",
+    "tb-cpu": "12.33%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898849,
+    "cpu": 0.947253,
+    "memory": 3254444,
+    "tb": "mytb",
+    "tb-cpu": "11.74%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898854,
+    "cpu": 0.947388,
+    "memory": 3254568,
+    "tb": "mytb",
+    "tb-cpu": "15.45%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898859,
+    "cpu": 0.947497,
+    "memory": 3254816,
+    "tb": "mytb",
+    "tb-cpu": "14.78%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898864,
+    "cpu": 0.947607,
+    "memory": 3254940,
+    "tb": "mytb",
+    "tb-cpu": "15.58%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898869,
+    "cpu": 0.947759,
+    "memory": 3255684,
+    "tb": "mytb",
+    "tb-cpu": "14.49%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898874,
+    "cpu": 0.947906,
+    "memory": 3255312,
+    "tb": "mytb",
+    "tb-cpu": "16.64%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898879,
+    "cpu": 0.94802,
+    "memory": 3256180,
+    "tb": "mytb",
+    "tb-cpu": "14.81%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898884,
+    "cpu": 0.948147,
+    "memory": 3256180,
+    "tb": "mytb",
+    "tb-cpu": "13.26%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898889,
+    "cpu": 0.948283,
+    "memory": 3256304,
+    "tb": "mytb",
+    "tb-cpu": "11.71%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898894,
+    "cpu": 0.948408,
+    "memory": 3255808,
+    "tb": "mytb",
+    "tb-cpu": "14.53%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898899,
+    "cpu": 0.948557,
+    "memory": 3256428,
+    "tb": "mytb",
+    "tb-cpu": "14.10%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898904,
+    "cpu": 0.94872,
+    "memory": 3257172,
+    "tb": "mytb",
+    "tb-cpu": "13.20%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898909,
+    "cpu": 0.948861,
+    "memory": 3257288,
+    "tb": "mytb",
+    "tb-cpu": "12.24%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898914,
+    "cpu": 0.94895,
+    "memory": 3257412,
+    "tb": "mytb",
+    "tb-cpu": "11.10%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898919,
+    "cpu": 0.94908,
+    "memory": 3257544,
+    "tb": "mytb",
+    "tb-cpu": "13.04%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898924,
+    "cpu": 0.949235,
+    "memory": 3257428,
+    "tb": "mytb",
+    "tb-cpu": "13.79%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898929,
+    "cpu": 0.949379,
+    "memory": 3258048,
+    "tb": "mytb",
+    "tb-cpu": "15.69%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898934,
+    "cpu": 0.949522,
+    "memory": 3257800,
+    "tb": "mytb",
+    "tb-cpu": "13.95%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898939,
+    "cpu": 0.949661,
+    "memory": 3257800,
+    "tb": "mytb",
+    "tb-cpu": "12.39%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898944,
+    "cpu": 0.949815,
+    "memory": 3257552,
+    "tb": "mytb",
+    "tb-cpu": "11.39%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898949,
+    "cpu": 0.949975,
+    "memory": 3258296,
+    "tb": "mytb",
+    "tb-cpu": "13.67%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898954,
+    "cpu": 0.950125,
+    "memory": 3258388,
+    "tb": "mytb",
+    "tb-cpu": "12.73%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898959,
+    "cpu": 0.950323,
+    "memory": 3258824,
+    "tb": "mytb",
+    "tb-cpu": "15.00%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898964,
+    "cpu": 0.950462,
+    "memory": 3259280,
+    "tb": "mytb",
+    "tb-cpu": "14.09%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898969,
+    "cpu": 0.950611,
+    "memory": 3259652,
+    "tb": "mytb",
+    "tb-cpu": "12.59%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898974,
+    "cpu": 0.950738,
+    "memory": 3258660,
+    "tb": "mytb",
+    "tb-cpu": "12.27%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898979,
+    "cpu": 0.950906,
+    "memory": 3259404,
+    "tb": "mytb",
+    "tb-cpu": "12.66%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898984,
+    "cpu": 0.951,
+    "memory": 3259652,
+    "tb": "mytb",
+    "tb-cpu": "13.74%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898989,
+    "cpu": 0.951124,
+    "memory": 3259552,
+    "tb": "mytb",
+    "tb-cpu": "11.36%",
+    "tb-mem": "616MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898994,
+    "cpu": 0.951248,
+    "memory": 3259784,
+    "tb": "mytb",
+    "tb-cpu": "10.45%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574898999,
+    "cpu": 0.951375,
+    "memory": 3260280,
+    "tb": "mytb",
+    "tb-cpu": "12.04%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899004,
+    "cpu": 0.951544,
+    "memory": 3260280,
+    "tb": "mytb",
+    "tb-cpu": "11.54%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899009,
+    "cpu": 0.951646,
+    "memory": 3260528,
+    "tb": "mytb",
+    "tb-cpu": "12.40%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899014,
+    "cpu": 0.951822,
+    "memory": 3261024,
+    "tb": "mytb",
+    "tb-cpu": "13.64%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899019,
+    "cpu": 0.951979,
+    "memory": 3261024,
+    "tb": "mytb",
+    "tb-cpu": "13.49%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899024,
+    "cpu": 0.952137,
+    "memory": 3260932,
+    "tb": "mytb",
+    "tb-cpu": "13.65%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899029,
+    "cpu": 0.952286,
+    "memory": 3261520,
+    "tb": "mytb",
+    "tb-cpu": "13.06%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899034,
+    "cpu": 0.952418,
+    "memory": 3261380,
+    "tb": "mytb",
+    "tb-cpu": "12.42%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899039,
+    "cpu": 0.952556,
+    "memory": 3261380,
+    "tb": "mytb",
+    "tb-cpu": "14.39%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899044,
+    "cpu": 0.952702,
+    "memory": 3261876,
+    "tb": "mytb",
+    "tb-cpu": "13.63%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899049,
+    "cpu": 0.952849,
+    "memory": 3262124,
+    "tb": "mytb",
+    "tb-cpu": "9.13%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899054,
+    "cpu": 0.952987,
+    "memory": 3262620,
+    "tb": "mytb",
+    "tb-cpu": "15.97%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899059,
+    "cpu": 0.95313,
+    "memory": 3262992,
+    "tb": "mytb",
+    "tb-cpu": "12.82%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899064,
+    "cpu": 0.953281,
+    "memory": 3262628,
+    "tb": "mytb",
+    "tb-cpu": "10.30%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899069,
+    "cpu": 0.953414,
+    "memory": 3263264,
+    "tb": "mytb",
+    "tb-cpu": "12.66%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899074,
+    "cpu": 0.953535,
+    "memory": 3262644,
+    "tb": "mytb",
+    "tb-cpu": "10.99%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899079,
+    "cpu": 0.953656,
+    "memory": 3262768,
+    "tb": "mytb",
+    "tb-cpu": "13.27%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899084,
+    "cpu": 0.95377,
+    "memory": 3263636,
+    "tb": "mytb",
+    "tb-cpu": "14.65%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899089,
+    "cpu": 0.953886,
+    "memory": 3264256,
+    "tb": "mytb",
+    "tb-cpu": "12.88%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899094,
+    "cpu": 0.954004,
+    "memory": 3263372,
+    "tb": "mytb",
+    "tb-cpu": "14.09%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899099,
+    "cpu": 0.954128,
+    "memory": 3264364,
+    "tb": "mytb",
+    "tb-cpu": "12.18%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899104,
+    "cpu": 0.954274,
+    "memory": 3264736,
+    "tb": "mytb",
+    "tb-cpu": "13.44%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899109,
+    "cpu": 0.95439,
+    "memory": 3264116,
+    "tb": "mytb",
+    "tb-cpu": "13.18%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899114,
+    "cpu": 0.954494,
+    "memory": 3264860,
+    "tb": "mytb",
+    "tb-cpu": "16.59%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899119,
+    "cpu": 0.954597,
+    "memory": 3264612,
+    "tb": "mytb",
+    "tb-cpu": "11.83%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899124,
+    "cpu": 0.954723,
+    "memory": 3265024,
+    "tb": "mytb",
+    "tb-cpu": "15.15%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899129,
+    "cpu": 0.95485,
+    "memory": 3265768,
+    "tb": "mytb",
+    "tb-cpu": "9.41%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899134,
+    "cpu": 0.954969,
+    "memory": 3266016,
+    "tb": "mytb",
+    "tb-cpu": "14.20%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899139,
+    "cpu": 0.955126,
+    "memory": 3265892,
+    "tb": "mytb",
+    "tb-cpu": "10.36%",
+    "tb-mem": "617.3MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899144,
+    "cpu": 0.955285,
+    "memory": 3265768,
+    "tb": "mytb",
+    "tb-cpu": "14.29%",
+    "tb-mem": "616.2MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899149,
+    "cpu": 0.955415,
+    "memory": 3266140,
+    "tb": "mytb",
+    "tb-cpu": "14.13%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899154,
+    "cpu": 0.955549,
+    "memory": 3266016,
+    "tb": "mytb",
+    "tb-cpu": "14.96%",
+    "tb-mem": "616.1MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899159,
+    "cpu": 0.955604,
+    "memory": 3266380,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899164,
+    "cpu": 0.955576,
+    "memory": 3266628,
+    "tb": "mytb",
+    "tb-cpu": "0.10%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899169,
+    "cpu": 0.955548,
+    "memory": 3266256,
+    "tb": "mytb",
+    "tb-cpu": "0.52%",
+    "tb-mem": "615.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899174,
+    "cpu": 0.955531,
+    "memory": 3265636,
+    "tb": "mytb",
+    "tb-cpu": "0.10%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899179,
+    "cpu": 0.955502,
+    "memory": 3266132,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899184,
+    "cpu": 0.955474,
+    "memory": 3265884,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "615.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899189,
+    "cpu": 0.955443,
+    "memory": 3266008,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899194,
+    "cpu": 0.955417,
+    "memory": 3265636,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899199,
+    "cpu": 0.955392,
+    "memory": 3266504,
+    "tb": "mytb",
+    "tb-cpu": "0.81%",
+    "tb-mem": "615.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899204,
+    "cpu": 0.955364,
+    "memory": 3266380,
+    "tb": "mytb",
+    "tb-cpu": "0.15%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899209,
+    "cpu": 0.955341,
+    "memory": 3266752,
+    "tb": "mytb",
+    "tb-cpu": "0.15%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899214,
+    "cpu": 0.955316,
+    "memory": 3266132,
+    "tb": "mytb",
+    "tb-cpu": "0.14%",
+    "tb-mem": "615.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899219,
+    "cpu": 0.95529,
+    "memory": 3264824,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899224,
+    "cpu": 0.955268,
+    "memory": 3264420,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899229,
+    "cpu": 0.955245,
+    "memory": 3264048,
+    "tb": "mytb",
+    "tb-cpu": "0.50%",
+    "tb-mem": "614MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899234,
+    "cpu": 0.955219,
+    "memory": 3264420,
+    "tb": "mytb",
+    "tb-cpu": "0.10%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899239,
+    "cpu": 0.955194,
+    "memory": 3264172,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899244,
+    "cpu": 0.955168,
+    "memory": 3264668,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899249,
+    "cpu": 0.95514,
+    "memory": 3264172,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.9MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899254,
+    "cpu": 0.955109,
+    "memory": 3263552,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899259,
+    "cpu": 0.955078,
+    "memory": 3263744,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899264,
+    "cpu": 0.95505,
+    "memory": 3264308,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899269,
+    "cpu": 0.955016,
+    "memory": 3263468,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899274,
+    "cpu": 0.954988,
+    "memory": 3263756,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899279,
+    "cpu": 0.95496,
+    "memory": 3263424,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899284,
+    "cpu": 0.954934,
+    "memory": 3263576,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899289,
+    "cpu": 0.954906,
+    "memory": 3262684,
+    "tb": "mytb",
+    "tb-cpu": "0.50%",
+    "tb-mem": "613.8MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899294,
+    "cpu": 0.954873,
+    "memory": 3262684,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899299,
+    "cpu": 0.954842,
+    "memory": 3262676,
+    "tb": "mytb",
+    "tb-cpu": "0.10%",
+    "tb-mem": "613.7MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899304,
+    "cpu": 0.954825,
+    "memory": 3263112,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899309,
+    "cpu": 0.954796,
+    "memory": 3263120,
+    "tb": "mytb",
+    "tb-cpu": "0.08%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899314,
+    "cpu": 0.954768,
+    "memory": 3262924,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899319,
+    "cpu": 0.95474,
+    "memory": 3262552,
+    "tb": "mytb",
+    "tb-cpu": "0.51%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  },
+  {
+    "timestamp": 1574899324,
+    "cpu": 0.954709,
+    "memory": 3262676,
+    "tb": "mytb",
+    "tb-cpu": "0.09%",
+    "tb-mem": "613.6MiB / 7.446GiB",
+    "": ""
+  }
+]

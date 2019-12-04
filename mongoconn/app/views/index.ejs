@@ -1,0 +1,183 @@
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+
+    <style>
+      .leftside,
+      .rightside {
+        height: 100vh;
+        width: 100%;
+      }
+      @media screen and (min-width: 1024px) {
+        .leftside,
+        .rightside {
+          height: 100vh;
+        }
+      }
+      .leftside {
+        background: white;
+      }
+      .rightside {
+        background: #00b7ef;
+      }
+
+      .wrapper {
+        margin-top: 80px;
+        margin-bottom: 80px;
+      }
+
+      .form-signin {
+        max-width: 380px;
+        padding: 15px 35px 45px;
+        margin: 0 auto;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+      }
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 30px;
+      }
+      .form-signin .checkbox {
+        font-weight: normal;
+      }
+      .form-signin .form-control {
+        position: relative;
+        font-size: 16px;
+        height: auto;
+        padding: 10px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+      .form-signin .form-control:focus {
+        z-index: 2;
+      }
+      .form-signin input[type="text"] {
+        margin-bottom: -1px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+      }
+      .form-signin input[type="password"] {
+        margin-bottom: 20px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
+    </style>
+    <title>split Screen Text</title>
+
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="row no-gutters">
+      <div id="left" class="col-md-6 no-gutters">
+        <div
+          id="left-side"
+          class="leftside d-flex justify-content-center align-items-center"
+        >
+          <table align="center">
+            <tr>
+              <td align="center">
+                <img
+                  width="100%"
+                  height="auto"
+                  src="http://swamp-project.org/wp-content/uploads/2017/12/cropped-swamp_small.png"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+                <span
+                  style='font-size: 40px;font-weight: bold;font-family:"Open Sans", sans-serif;color: #00b7ef'
+                  >SWAMP</span
+                >
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span>
+                  SMART WATER MANAGEMENT PLATFORM
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+
+      <div id="right" class="col-md-6 no-gutters">
+        <div class="rightside d-flex justify-content-center align-items-center">
+          <div class="wrapper ">
+			  <% if(validacao.length >0) { %>
+				<div> class="alert alert-danger><strong>Atenção!</strong>
+				<ul>
+						<% for(var i=0;i< validacao.length; i++) {%>
+							<li><%=validacao[i].msg %></li>
+							<% } %>
+				</ul>
+				</div>
+				<%  %>
+
+				<% } %>
+            <form class="form-signin rounded" action="/auth" method="post">
+              <h2 class="form-signin-heading rounded" style="font-size:">
+                Swamp Platform Manager
+              </h2>
+              <input
+                type="text"
+                class="form-control"
+                name="username"
+                placeholder="Email Address"
+                required=""
+                autofocus=""
+              />
+              <input
+                type="password"
+                class="form-control"
+                name="password"
+                placeholder="Password"
+                required=""
+              />
+              <label class="checkbox">
+                <input
+                  type="checkbox"
+                  value="remember-me"
+                  id="rememberMe"
+                  name="rememberMe"
+                />
+                Remember me
+              </label>
+              <button class="btn btn-lg btn-primary btn-block" type="submit">
+                Login
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+-lambda -> number of event messages per second
+-rep -> number of replications
+-h -> broker address
+-t -> mqtt topic
+-time -> duration of a replication
+-time_b -> time between experiments
+-blue -> periodicity (in seconds) of blue subway line
+-green -> periodicity (in seconds) of green subway line
+-red -> periodicity (in seconds) of red subway line
+-waste -> number of inteligente trash cans 

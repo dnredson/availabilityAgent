@@ -1,0 +1,34 @@
+{ id: 'urn:ngsi-ld:TestNode',
+    type: 'Iotmanager',
+    action:
+     { type: 'StructuredValue',
+       value: { type: 'text', value: 'reboot' },
+       metadata: {} },
+    actionintervall:
+     { type: 'StructuredValue',
+       value: { type: 'number', value: 30 },
+       metadata: {} },
+    entities:
+     { type: 'StructuredValue',
+       value:
+        [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+       metadata: {} },
+    entity_type: { type: 'Text', value: 'Iotmanager', metadata: {} },
+    entitypath:
+     { type: 'StructuredValue',
+       value: { type: 'text', value: '' },
+       metadata: {} },
+    host: { type: 'Text', value: '177.104.61.60:1026', metadata: {} },
+    publishintervall:
+     { type: 'StructuredValue',
+       value: { type: 'number', value: 30 },
+       metadata: {} },
+    service:
+     { type: 'StructuredValue',
+       value: { type: 'text', value: 'openiot' },
+       metadata: {} },
+    servicepath:
+     { type: 'StructuredValue',
+       value: { type: 'text', value: '/' },
+       metadata: {} },
+    timestamp: { type: 'Text', value: '233232234222', metadata: {} } }
