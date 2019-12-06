@@ -8,6 +8,10 @@ app = express();
 cron.schedule("*/10 * * * *", function(){
 
  console.log("Executando a tarefa a cada 10 minutos")}
+
+
+
+ 
  );
 
 app.listen(1313);

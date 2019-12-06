@@ -20,7 +20,7 @@ var opcoes = {
 
 var response = [];
 var jsonResponse ={};
-var jsonResponse2;
+
 var req = http.request(opcoes,function(res){
 
     res.on('data', function(pedaco){
@@ -36,7 +36,7 @@ var req = http.request(opcoes,function(res){
         });
 
 });
-console.log("JSON");
+
 
 req.end();
 
